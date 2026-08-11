@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "The Law Tome: an index of 1,116 named laws, principles and effects"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: Chagti
+    given-names: Krishna
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21889681
+repository-code: "https://github.com/krishnachagti-sudo/the-law-tome-dataset"
+url: "https://conyso.com/lawtome/"
+license: CC-BY-4.0
+version: 1.0.1
+date-released: "2026-08-11"
+keywords:
+  - named laws
+  - eponymous laws
+  - mental models
+  - heuristics
+  - epistemics
+  - reference dataset

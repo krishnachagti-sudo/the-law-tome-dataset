@@ -1,5 +1,8 @@
 # The Law Tome — dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21889681.svg)](https://doi.org/10.5281/zenodo.21889681)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 A machine-readable index of **1,116 named laws, principles, effects, razors, paradoxes
 and fallacies**, each traced to a primary source and rated for how much evidence actually
 sits behind it.
@@ -93,12 +96,14 @@ for l in sorted(rows, key=lambda x: x.get('coinedYear') or 9999):
 ## Citation
 
 ```bibtex
-@misc{lawtome,
-  title  = {The Law Tome: an index of 1,116 named laws, principles and effects},
-  author = {Chagti, Krishna},
-  year   = {2026},
-  url    = {https://conyso.com/lawtome/},
-  note   = {CC BY 4.0}
+@dataset{lawtome,
+  title     = {The Law Tome: an index of 1,116 named laws, principles and effects},
+  author    = {Chagti, Krishna},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21889681},
+  url       = {https://doi.org/10.5281/zenodo.21889681},
+  note      = {CC BY 4.0}
 }
 ```
 
