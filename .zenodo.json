@@ -1,0 +1,30 @@
+{
+  "title": "The Law Tome: an index of 1,116 named laws, principles and effects",
+  "description": "A machine-readable index of 1,116 named laws, principles, effects, razors, paradoxes and fallacies. Every entry is traced to a primary source (2,489 source records) and rated for evidentiary weight as Empirical, Heuristic, Contested or Folk-adage. Includes 2,167 typed graph edges linking laws that echo, cause or contradict one another. Coined years span 1609 to 2014 across 20 fields. Companion dataset to https://conyso.com/lawtome/",
+  "creators": [
+    {
+      "name": "Chagti, Krishna"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "keywords": [
+    "named laws",
+    "eponymous laws",
+    "mental models",
+    "heuristics",
+    "epistemics",
+    "scientific principles",
+    "reference dataset",
+    "history of ideas",
+    "attribution"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://conyso.com/lawtome/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

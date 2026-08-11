@@ -1,0 +1,1117 @@
+no,slug,name,category,reliability,coinedYear,namedAfter,url
+002,campbells-law,Campbell's Law,sociology,Heuristic,1975,Donald T. Campbell,https://conyso.com/lawtome/laws/campbells-law/
+005,cobra-effect,The Cobra Effect,economics,Heuristic,2001,Horst Siebert,https://conyso.com/lawtome/laws/cobra-effect/
+008,conways-law,Conway's Law,software,Heuristic,1968,Melvin Conway,https://conyso.com/lawtome/laws/conways-law/
+011,dunning-kruger-effect,The Dunning–Kruger Effect,psychology,Contested,1999,David Dunning and Justin Kruger,https://conyso.com/lawtome/laws/dunning-kruger-effect/
+014,goodharts-law,Goodhart's Law,economics,Heuristic,1975,Charles Goodhart,https://conyso.com/lawtome/laws/goodharts-law/
+017,hanlons-razor,Hanlon's Razor,psychology,Folk-adage,1980,Robert J. Hanlon,https://conyso.com/lawtome/laws/hanlons-razor/
+020,hofstadters-law,Hofstadter's Law,planning,Heuristic,1979,Douglas Hofstadter,https://conyso.com/lawtome/laws/hofstadters-law/
+023,occams-razor,Occam's Razor,logic,Heuristic,,William of Ockham,https://conyso.com/lawtome/laws/occams-razor/
+026,parkinsons-law,Parkinson's Law,management,Heuristic,1955,C. Northcote Parkinson,https://conyso.com/lawtome/laws/parkinsons-law/
+029,streisand-effect,The Streisand Effect,media,Heuristic,2005,Barbra Streisand,https://conyso.com/lawtome/laws/streisand-effect/
+032,the-peter-principle,The Peter Principle,management,Heuristic,1969,Laurence J. Peter,https://conyso.com/lawtome/laws/the-peter-principle/
+035,brooks-law,Brooks's Law,software,Heuristic,1975,Fred Brooks,https://conyso.com/lawtome/laws/brooks-law/
+038,galls-law,Gall's Law,software,Heuristic,1975,John Gall,https://conyso.com/lawtome/laws/galls-law/
+041,pareto-principle,The Pareto Principle,statistics,Heuristic,1941,Vilfredo Pareto,https://conyso.com/lawtome/laws/pareto-principle/
+044,sturgeons-law,Sturgeon's Law,media,Folk-adage,1958,Theodore Sturgeon,https://conyso.com/lawtome/laws/sturgeons-law/
+047,murphys-law,Murphy's Law,planning,Folk-adage,1949,Edward A. Murphy Jr.,https://conyso.com/lawtome/laws/murphys-law/
+050,betteridges-law,Betteridge's Law of Headlines,media,Folk-adage,2009,Ian Betteridge,https://conyso.com/lawtome/laws/betteridges-law/
+051,dunbars-number,Dunbar's Number,psychology,Contested,1992,Robin Dunbar,https://conyso.com/lawtome/laws/dunbars-number/
+052,godwins-law,Godwin's Law,media,Heuristic,1990,Mike Godwin,https://conyso.com/lawtome/laws/godwins-law/
+053,cunninghams-law,Cunningham's Law,media,Folk-adage,2010,Ward Cunningham,https://conyso.com/lawtome/laws/cunninghams-law/
+055,hyrums-law,Hyrum's Law,software,Heuristic,,Hyrum Wright,https://conyso.com/lawtome/laws/hyrums-law/
+056,metcalfes-law,Metcalfe's Law,technology,Heuristic,1993,Robert Metcalfe,https://conyso.com/lawtome/laws/metcalfes-law/
+057,moores-law,Moore's Law,technology,Empirical,1965,Gordon Moore,https://conyso.com/lawtome/laws/moores-law/
+058,amaras-law,Amara's Law,technology,Heuristic,,Roy Amara,https://conyso.com/lawtome/laws/amaras-law/
+059,lindy-effect,The Lindy Effect,statistics,Heuristic,1964,,https://conyso.com/lawtome/laws/lindy-effect/
+060,chestertons-fence,Chesterton's Fence,philosophy,Heuristic,1929,G. K. Chesterton,https://conyso.com/lawtome/laws/chestertons-fence/
+061,poes-law,Poe's Law,media,Folk-adage,2005,Nathan Poe,https://conyso.com/lawtome/laws/poes-law/
+062,brandolinis-law,Brandolini's Law,media,Heuristic,2013,Alberto Brandolini,https://conyso.com/lawtome/laws/brandolinis-law/
+063,postels-law,Postel's Law,software,Contested,1980,Jon Postel,https://conyso.com/lawtome/laws/postels-law/
+064,sayres-law,Sayre's Law,sociology,Folk-adage,1973,Wallace Sayre,https://conyso.com/lawtome/laws/sayres-law/
+065,kranzbergs-first-law,Kranzberg's First Law,technology,Heuristic,1986,Melvin Kranzberg,https://conyso.com/lawtome/laws/kranzbergs-first-law/
+066,wirths-law,Wirth's Law,software,Heuristic,1995,Niklaus Wirth,https://conyso.com/lawtome/laws/wirths-law/
+067,gell-mann-amnesia-effect,The Gell-Mann Amnesia Effect,media,Folk-adage,2002,Murray Gell-Mann,https://conyso.com/lawtome/laws/gell-mann-amnesia-effect/
+069,parkinsons-law-of-triviality,Parkinson's Law of Triviality,management,Heuristic,1957,C. Northcote Parkinson,https://conyso.com/lawtome/laws/parkinsons-law-of-triviality/
+070,segals-law,Segal's Law,statistics,Folk-adage,1930,,https://conyso.com/lawtome/laws/segals-law/
+071,stiglers-law,Stigler's Law of Eponymy,sociology,Heuristic,1980,Stephen Stigler,https://conyso.com/lawtome/laws/stiglers-law/
+072,clarkes-three-laws,Clarke's Three Laws,technology,Folk-adage,1962,Arthur C. Clarke,https://conyso.com/lawtome/laws/clarkes-three-laws/
+073,sagan-standard,The Sagan Standard,logic,Heuristic,1980,Carl Sagan,https://conyso.com/lawtome/laws/sagan-standard/
+074,russells-teapot,Russell's Teapot,philosophy,Heuristic,1952,Bertrand Russell,https://conyso.com/lawtome/laws/russells-teapot/
+076,alders-razor,Newton's Flaming Laser Sword,logic,Contested,2004,Mike Alder,https://conyso.com/lawtome/laws/alders-razor/
+077,matthew-effect,The Matthew Effect,sociology,Empirical,1968,the Gospel of Matthew,https://conyso.com/lawtome/laws/matthew-effect/
+078,overton-window,The Overton Window,sociology,Heuristic,,Joseph P. Overton,https://conyso.com/lawtome/laws/overton-window/
+079,dilbert-principle,The Dilbert Principle,management,Folk-adage,1995,Dilbert,https://conyso.com/lawtome/laws/dilbert-principle/
+080,putts-law,Putt's Law,management,Folk-adage,1981,Archibald Putt,https://conyso.com/lawtome/laws/putts-law/
+081,iron-law-of-oligarchy,The Iron Law of Oligarchy,sociology,Contested,1911,Robert Michels,https://conyso.com/lawtome/laws/iron-law-of-oligarchy/
+082,benfords-law,Benford's Law,statistics,Empirical,1938,Frank Benford,https://conyso.com/lawtome/laws/benfords-law/
+083,littlewoods-law,Littlewood's Law,statistics,Heuristic,1953,John Edensor Littlewood,https://conyso.com/lawtome/laws/littlewoods-law/
+084,zipfs-law,Zipf's Law,statistics,Empirical,1935,George Kingsley Zipf,https://conyso.com/lawtome/laws/zipfs-law/
+085,regression-to-the-mean,Regression to the Mean,statistics,Empirical,1886,Francis Galton,https://conyso.com/lawtome/laws/regression-to-the-mean/
+086,simpsons-paradox,Simpson's Paradox,statistics,Empirical,1951,Edward H. Simpson,https://conyso.com/lawtome/laws/simpsons-paradox/
+087,twymans-law,Twyman's Law,statistics,Heuristic,,Tony Twyman,https://conyso.com/lawtome/laws/twymans-law/
+088,berksons-paradox,Berkson's Paradox,statistics,Empirical,1946,Joseph Berkson,https://conyso.com/lawtome/laws/berksons-paradox/
+089,cromwells-rule,Cromwell's Rule,statistics,Heuristic,,Oliver Cromwell,https://conyso.com/lawtome/laws/cromwells-rule/
+090,greshams-law,Gresham's Law,economics,Heuristic,1858,Thomas Gresham,https://conyso.com/lawtome/laws/greshams-law/
+091,says-law,Say's Law,economics,Contested,1803,Jean-Baptiste Say,https://conyso.com/lawtome/laws/says-law/
+092,jevons-paradox,The Jevons Paradox,economics,Contested,1865,William Stanley Jevons,https://conyso.com/lawtome/laws/jevons-paradox/
+093,hotellings-law,Hotelling's Law,economics,Contested,1929,Harold Hotelling,https://conyso.com/lawtome/laws/hotellings-law/
+094,okuns-law,Okun's Law,economics,Empirical,1962,Arthur Okun,https://conyso.com/lawtome/laws/okuns-law/
+095,fitts-law,Fitts's Law,software,Empirical,1954,Paul Fitts,https://conyso.com/lawtome/laws/fitts-law/
+096,hicks-law,Hick's Law,software,Empirical,1952,William Edmund Hick,https://conyso.com/lawtome/laws/hicks-law/
+097,yerkes-dodson-law,The Yerkes–Dodson Law,psychology,Heuristic,1908,Robert Yerkes and John Dodson,https://conyso.com/lawtome/laws/yerkes-dodson-law/
+098,millers-law,Miller's Law,psychology,Empirical,1956,George A. Miller,https://conyso.com/lawtome/laws/millers-law/
+099,weber-fechner-law,The Weber–Fechner Law,psychology,Empirical,1860,Ernst Weber and Gustav Fechner,https://conyso.com/lawtome/laws/weber-fechner-law/
+100,zeigarnik-effect,The Zeigarnik Effect,psychology,Contested,1927,Bluma Zeigarnik,https://conyso.com/lawtome/laws/zeigarnik-effect/
+101,hawthorne-effect,The Hawthorne Effect,psychology,Contested,1958,The Hawthorne Works,https://conyso.com/lawtome/laws/hawthorne-effect/
+102,halo-effect,The Halo Effect,psychology,Empirical,1920,Edward Thorndike,https://conyso.com/lawtome/laws/halo-effect/
+103,peltzman-effect,The Peltzman Effect,psychology,Contested,1975,Sam Peltzman,https://conyso.com/lawtome/laws/peltzman-effect/
+104,baader-meinhof-phenomenon,The Baader–Meinhof Phenomenon,psychology,Heuristic,2005,The Baader–Meinhof group,https://conyso.com/lawtome/laws/baader-meinhof-phenomenon/
+105,ringelmann-effect,The Ringelmann Effect,psychology,Empirical,1913,Maximilien Ringelmann,https://conyso.com/lawtome/laws/ringelmann-effect/
+106,ebbinghaus-forgetting-curve,The Ebbinghaus Forgetting Curve,psychology,Empirical,1885,Hermann Ebbinghaus,https://conyso.com/lawtome/laws/ebbinghaus-forgetting-curve/
+107,pygmalion-effect,The Pygmalion Effect,psychology,Contested,1968,Pygmalion of Greek myth,https://conyso.com/lawtome/laws/pygmalion-effect/
+108,amdahls-law,Amdahl's Law,software,Empirical,1967,Gene Amdahl,https://conyso.com/lawtome/laws/amdahls-law/
+109,gustafsons-law,Gustafson's Law,software,Empirical,1988,John Gustafson,https://conyso.com/lawtome/laws/gustafsons-law/
+111,linuss-law,Linus's Law,software,Contested,1999,Linus Torvalds,https://conyso.com/lawtome/laws/linuss-law/
+112,zawinskis-law,Zawinski's Law,software,Folk-adage,1995,Jamie Zawinski,https://conyso.com/lawtome/laws/zawinskis-law/
+113,greenspuns-tenth-rule,Greenspun's Tenth Rule,software,Folk-adage,1993,Philip Greenspun,https://conyso.com/lawtome/laws/greenspuns-tenth-rule/
+114,atwoods-law,Atwood's Law,software,Folk-adage,2007,Jeff Atwood,https://conyso.com/lawtome/laws/atwoods-law/
+115,reeds-law,Reed's Law,technology,Contested,2001,David P. Reed,https://conyso.com/lawtome/laws/reeds-law/
+116,sarnoffs-law,Sarnoff's Law,technology,Heuristic,1999,David Sarnoff,https://conyso.com/lawtome/laws/sarnoffs-law/
+117,kryders-law,Kryder's Law,technology,Empirical,2005,Mark Kryder,https://conyso.com/lawtome/laws/kryders-law/
+118,koomeys-law,Koomey's Law,technology,Empirical,2011,Jonathan Koomey,https://conyso.com/lawtome/laws/koomeys-law/
+119,groschs-law,Grosch's Law,technology,Contested,1965,Herbert Grosch,https://conyso.com/lawtome/laws/groschs-law/
+120,wiios-laws,Wiio's Laws,media,Folk-adage,1978,Osmo Antero Wiio,https://conyso.com/lawtome/laws/wiios-laws/
+121,dollos-law,Dollo's Law of Irreversibility,biology,Contested,1893,Louis Dollo,https://conyso.com/lawtome/laws/dollos-law/
+122,copes-rule,Cope's Rule,biology,Contested,1948,Edward Drinker Cope,https://conyso.com/lawtome/laws/copes-rule/
+124,liebigs-law-of-the-minimum,Liebig's Law of the Minimum,biology,Empirical,1840,Justus von Liebig,https://conyso.com/lawtome/laws/liebigs-law-of-the-minimum/
+125,kleibers-law,Kleiber's Law,biology,Empirical,1932,Max Kleiber,https://conyso.com/lawtome/laws/kleibers-law/
+126,bergmanns-rule,Bergmann's Rule,biology,Empirical,1847,Carl Bergmann,https://conyso.com/lawtome/laws/bergmanns-rule/
+127,allens-rule,Allen's Rule,biology,Contested,1877,Joel Asaph Allen,https://conyso.com/lawtome/laws/allens-rule/
+128,glogers-rule,Gloger's Rule,biology,Empirical,1833,Constantin Wilhelm Lambert Gloger,https://conyso.com/lawtome/laws/glogers-rule/
+129,finagles-law,Finagle's Law,media,Folk-adage,1962,The fictional Finagle,https://conyso.com/lawtome/laws/finagles-law/
+130,sods-law,Sod's Law,media,Folk-adage,1995,The 'unlucky sod',https://conyso.com/lawtome/laws/sods-law/
+131,muphrys-law,Muphry's Law,media,Folk-adage,1992,A misspelling of Murphy,https://conyso.com/lawtome/laws/muphrys-law/
+132,hutbers-law,Hutber's Law,economics,Folk-adage,1970,Patrick Hutber,https://conyso.com/lawtome/laws/hutbers-law/
+133,cheops-law,Cheops' Law,planning,Folk-adage,1973,The pharaoh Cheops,https://conyso.com/lawtome/laws/cheops-law/
+134,ohms-law,Ohm's Law,physics,Empirical,1827,Georg Simon Ohm,https://conyso.com/lawtome/laws/ohms-law/
+135,hookes-law,Hooke's Law,physics,Empirical,1678,Robert Hooke,https://conyso.com/lawtome/laws/hookes-law/
+136,boyles-law,Boyle's Law,chemistry,Empirical,1662,Robert Boyle,https://conyso.com/lawtome/laws/boyles-law/
+138,gay-lussacs-law,Gay-Lussac's Law,chemistry,Empirical,,Joseph Louis Gay-Lussac,https://conyso.com/lawtome/laws/gay-lussacs-law/
+139,avogadros-law,Avogadro's Law,chemistry,Empirical,1811,Amedeo Avogadro,https://conyso.com/lawtome/laws/avogadros-law/
+140,newtons-law-of-cooling,Newton's Law of Cooling,physics,Empirical,1701,Isaac Newton,https://conyso.com/lawtome/laws/newtons-law-of-cooling/
+141,keplers-laws-of-planetary-motion,Kepler's Laws of Planetary Motion,astronomy,Empirical,1609,Johannes Kepler,https://conyso.com/lawtome/laws/keplers-laws-of-planetary-motion/
+142,snells-law,Snell's Law,physics,Empirical,1621,Willebrord Snellius,https://conyso.com/lawtome/laws/snells-law/
+143,coulombs-law,Coulomb's Law,physics,Empirical,1785,Charles-Augustin de Coulomb,https://conyso.com/lawtome/laws/coulombs-law/
+144,faradays-law-of-induction,Faraday's Law of Induction,physics,Empirical,1831,Michael Faraday,https://conyso.com/lawtome/laws/faradays-law-of-induction/
+145,lenzs-law,Lenz's Law,physics,Empirical,1834,Heinrich Lenz,https://conyso.com/lawtome/laws/lenzs-law/
+146,amperes-law,Ampère's Law,physics,Empirical,1826,André-Marie Ampère,https://conyso.com/lawtome/laws/amperes-law/
+147,bernoullis-principle,Bernoulli's Principle,physics,Empirical,1738,Daniel Bernoulli,https://conyso.com/lawtome/laws/bernoullis-principle/
+148,archimedes-principle,Archimedes' Principle,physics,Empirical,,Archimedes of Syracuse,https://conyso.com/lawtome/laws/archimedes-principle/
+149,pascals-law,Pascal's Law,physics,Empirical,1653,Blaise Pascal,https://conyso.com/lawtome/laws/pascals-law/
+150,stefan-boltzmann-law,The Stefan–Boltzmann Law,physics,Empirical,1879,Josef Stefan and Ludwig Boltzmann,https://conyso.com/lawtome/laws/stefan-boltzmann-law/
+151,wiens-displacement-law,Wien's Displacement Law,physics,Empirical,1893,Wilhelm Wien,https://conyso.com/lawtome/laws/wiens-displacement-law/
+152,plancks-law,Planck's Law,physics,Empirical,1900,Max Planck,https://conyso.com/lawtome/laws/plancks-law/
+155,henrys-law,Henry's Law,chemistry,Empirical,1803,William Henry,https://conyso.com/lawtome/laws/henrys-law/
+156,raoults-law,Raoult's Law,chemistry,Empirical,1887,François-Marie Raoult,https://conyso.com/lawtome/laws/raoults-law/
+157,daltons-law,Dalton's Law of Partial Pressures,chemistry,Empirical,1801,John Dalton,https://conyso.com/lawtome/laws/daltons-law/
+158,hubbles-law,Hubble's Law,astronomy,Empirical,1929,Edwin Hubble,https://conyso.com/lawtome/laws/hubbles-law/
+159,curies-law,Curie's Law,physics,Empirical,1895,Pierre Curie,https://conyso.com/lawtome/laws/curies-law/
+160,le-chateliers-principle,Le Chatelier's Principle,chemistry,Heuristic,1884,Henry Le Chatelier,https://conyso.com/lawtome/laws/le-chateliers-principle/
+161,hesss-law,Hess's Law,chemistry,Empirical,1840,Germain Hess,https://conyso.com/lawtome/laws/hesss-law/
+162,arrhenius-equation,The Arrhenius Equation,chemistry,Empirical,1889,Svante Arrhenius,https://conyso.com/lawtome/laws/arrhenius-equation/
+164,faradays-laws-of-electrolysis,Faraday's Laws of Electrolysis,chemistry,Empirical,1834,Michael Faraday,https://conyso.com/lawtome/laws/faradays-laws-of-electrolysis/
+165,beer-lambert-law,The Beer–Lambert Law,chemistry,Empirical,1852,August Beer and Johann Heinrich Lambert,https://conyso.com/lawtome/laws/beer-lambert-law/
+166,braggs-law,Bragg's Law,physics,Empirical,1913,William Lawrence Bragg and William Henry Bragg,https://conyso.com/lawtome/laws/braggs-law/
+167,maluss-law,Malus's Law,physics,Empirical,1809,Étienne-Louis Malus,https://conyso.com/lawtome/laws/maluss-law/
+168,kirchhoffs-circuit-laws,Kirchhoff's Circuit Laws,physics,Empirical,1845,Gustav Kirchhoff,https://conyso.com/lawtome/laws/kirchhoffs-circuit-laws/
+169,kirchhoffs-law-of-thermal-radiation,Kirchhoff's Law of Thermal Radiation,physics,Empirical,1859,Gustav Kirchhoff,https://conyso.com/lawtome/laws/kirchhoffs-law-of-thermal-radiation/
+171,biot-savart-law,The Biot–Savart Law,physics,Empirical,1820,Jean-Baptiste Biot and Félix Savart,https://conyso.com/lawtome/laws/biot-savart-law/
+172,nernst-equation,The Nernst Equation,chemistry,Empirical,1889,Walther Nernst,https://conyso.com/lawtome/laws/nernst-equation/
+173,central-limit-theorem,The Central Limit Theorem,statistics,Empirical,,,https://conyso.com/lawtome/laws/central-limit-theorem/
+174,law-of-large-numbers,The Law of Large Numbers,statistics,Empirical,1713,,https://conyso.com/lawtome/laws/law-of-large-numbers/
+175,bayes-theorem,Bayes' Theorem,statistics,Empirical,1763,Thomas Bayes,https://conyso.com/lawtome/laws/bayes-theorem/
+176,the-monty-hall-problem,The Monty Hall Problem,statistics,Empirical,1975,Monty Hall,https://conyso.com/lawtome/laws/the-monty-hall-problem/
+177,the-birthday-problem,The Birthday Problem,statistics,Empirical,1939,,https://conyso.com/lawtome/laws/the-birthday-problem/
+178,the-st-petersburg-paradox,The St. Petersburg Paradox,statistics,Contested,1738,,https://conyso.com/lawtome/laws/the-st-petersburg-paradox/
+179,the-gamblers-fallacy,The Gambler's Fallacy,psychology,Empirical,1913,The Monte Carlo Casino,https://conyso.com/lawtome/laws/the-gamblers-fallacy/
+180,the-friendship-paradox,The Friendship Paradox,sociology,Empirical,1991,Scott L. Feld,https://conyso.com/lawtome/laws/the-friendship-paradox/
+181,the-base-rate-fallacy,The Base Rate Fallacy,psychology,Empirical,1973,Amos Tversky and Daniel Kahneman,https://conyso.com/lawtome/laws/the-base-rate-fallacy/
+182,littles-law,Little's Law,planning,Empirical,1961,John D. C. Little,https://conyso.com/lawtome/laws/littles-law/
+183,the-pigeonhole-principle,The Pigeonhole Principle,statistics,Empirical,1834,Peter Gustav Lejeune Dirichlet,https://conyso.com/lawtome/laws/the-pigeonhole-principle/
+184,arrows-impossibility-theorem,Arrow's Impossibility Theorem,sociology,Empirical,1951,Kenneth Arrow,https://conyso.com/lawtome/laws/arrows-impossibility-theorem/
+185,the-condorcet-paradox,The Condorcet Paradox,sociology,Empirical,1785,The Marquis de Condorcet,https://conyso.com/lawtome/laws/the-condorcet-paradox/
+186,hardy-weinberg-principle,The Hardy-Weinberg Principle,biology,Empirical,1908,G. H. Hardy and Wilhelm Weinberg,https://conyso.com/lawtome/laws/hardy-weinberg-principle/
+187,fishers-principle,Fisher's Principle,biology,Empirical,1930,Ronald A. Fisher,https://conyso.com/lawtome/laws/fishers-principle/
+188,the-red-queen-hypothesis,The Red Queen Hypothesis,biology,Contested,1973,The Red Queen in Lewis Carroll's Through the Looking-Glass,https://conyso.com/lawtome/laws/the-red-queen-hypothesis/
+189,mullers-ratchet,Muller's Ratchet,biology,Empirical,1964,Hermann J. Muller,https://conyso.com/lawtome/laws/mullers-ratchet/
+190,lotka-volterra-equations,The Lotka-Volterra Equations,biology,Empirical,1926,Alfred J. Lotka and Vito Volterra,https://conyso.com/lawtome/laws/lotka-volterra-equations/
+191,haldanes-rule,Haldane's Rule,biology,Empirical,1922,J. B. S. Haldane,https://conyso.com/lawtome/laws/haldanes-rule/
+192,fosters-rule,Foster's Rule,biology,Contested,1964,J. Bristol Foster,https://conyso.com/lawtome/laws/fosters-rule/
+193,batemans-principle,Bateman's Principle,biology,Contested,1948,Angus John Bateman,https://conyso.com/lawtome/laws/batemans-principle/
+194,the-handicap-principle,The Handicap Principle,biology,Contested,1975,Amotz Zahavi,https://conyso.com/lawtome/laws/the-handicap-principle/
+195,petos-paradox,Peto's Paradox,biology,Empirical,1977,Richard Peto,https://conyso.com/lawtome/laws/petos-paradox/
+196,renschs-rule,Rensch's Rule,biology,Empirical,1950,Bernhard Rensch,https://conyso.com/lawtome/laws/renschs-rule/
+197,von-baers-laws,Von Baer's Laws,biology,Empirical,1828,Karl Ernst von Baer,https://conyso.com/lawtome/laws/von-baers-laws/
+198,emerys-rule,Emery's Rule,biology,Empirical,1909,Carlo Emery,https://conyso.com/lawtome/laws/emerys-rule/
+199,engels-law,Engel's Law,economics,Empirical,1857,Ernst Engel,https://conyso.com/lawtome/laws/engels-law/
+201,the-law-of-one-price,The Law of One Price,economics,Heuristic,,,https://conyso.com/lawtome/laws/the-law-of-one-price/
+202,the-lucas-critique,The Lucas Critique,economics,Heuristic,1976,Robert Lucas,https://conyso.com/lawtome/laws/the-lucas-critique/
+203,baumols-cost-disease,Baumol's Cost Disease,economics,Empirical,1966,William J. Baumol,https://conyso.com/lawtome/laws/baumols-cost-disease/
+204,the-coase-theorem,The Coase Theorem,economics,Contested,1960,Ronald Coase,https://conyso.com/lawtome/laws/the-coase-theorem/
+205,the-modigliani-miller-theorem,The Modigliani-Miller Theorem,economics,Heuristic,1958,Franco Modigliani and Merton Miller,https://conyso.com/lawtome/laws/the-modigliani-miller-theorem/
+206,gibrats-law,Gibrat's Law,economics,Contested,1931,Robert Gibrat,https://conyso.com/lawtome/laws/gibrats-law/
+207,wrights-law,Wright's Law,economics,Empirical,1936,Theodore Paul Wright,https://conyso.com/lawtome/laws/wrights-law/
+208,the-laffer-curve,The Laffer Curve,economics,Contested,1974,Arthur Laffer,https://conyso.com/lawtome/laws/the-laffer-curve/
+209,duvergers-law,Duverger's Law,sociology,Empirical,1951,Maurice Duverger,https://conyso.com/lawtome/laws/duvergers-law/
+210,wagners-law,Wagner's Law,economics,Empirical,1883,Adolph Wagner,https://conyso.com/lawtome/laws/wagners-law/
+212,newtons-laws-of-motion,Newton's Laws of Motion,physics,Empirical,1687,Isaac Newton,https://conyso.com/lawtome/laws/newtons-laws-of-motion/
+213,newtons-law-of-universal-gravitation,Newton's Law of Universal Gravitation,physics,Empirical,1687,Isaac Newton,https://conyso.com/lawtome/laws/newtons-law-of-universal-gravitation/
+214,the-conservation-of-energy,The Conservation of Energy,physics,Empirical,1847,,https://conyso.com/lawtome/laws/the-conservation-of-energy/
+215,the-second-law-of-thermodynamics,The Second Law of Thermodynamics,physics,Empirical,1865,,https://conyso.com/lawtome/laws/the-second-law-of-thermodynamics/
+216,noethers-theorem,Noether's Theorem,physics,Empirical,1918,Emmy Noether,https://conyso.com/lawtome/laws/noethers-theorem/
+217,heisenbergs-uncertainty-principle,Heisenberg's Uncertainty Principle,physics,Empirical,1927,Werner Heisenberg,https://conyso.com/lawtome/laws/heisenbergs-uncertainty-principle/
+218,the-pauli-exclusion-principle,The Pauli Exclusion Principle,physics,Empirical,1925,Wolfgang Pauli,https://conyso.com/lawtome/laws/the-pauli-exclusion-principle/
+219,the-doppler-effect,The Doppler Effect,physics,Empirical,1842,Christian Doppler,https://conyso.com/lawtome/laws/the-doppler-effect/
+220,the-nyquist-shannon-sampling-theorem,The Nyquist-Shannon Sampling Theorem,technology,Empirical,1949,Harry Nyquist and Claude Shannon,https://conyso.com/lawtome/laws/the-nyquist-shannon-sampling-theorem/
+221,godels-incompleteness-theorems,Gödel's Incompleteness Theorems,logic,Empirical,1931,Kurt Gödel,https://conyso.com/lawtome/laws/godels-incompleteness-theorems/
+222,the-halting-problem,The Halting Problem,software,Empirical,1936,Alan Turing,https://conyso.com/lawtome/laws/the-halting-problem/
+223,the-pythagorean-theorem,The Pythagorean Theorem,mathematics,Empirical,,Pythagoras of Samos,https://conyso.com/lawtome/laws/the-pythagorean-theorem/
+224,eulers-identity,Euler's Identity,mathematics,Empirical,1748,Leonhard Euler,https://conyso.com/lawtome/laws/eulers-identity/
+225,kolmogorov-complexity,Kolmogorov Complexity,software,Empirical,1965,Andrey Kolmogorov,https://conyso.com/lawtome/laws/kolmogorov-complexity/
+226,the-church-turing-thesis,The Church-Turing Thesis,software,Heuristic,1936,Alonzo Church and Alan Turing,https://conyso.com/lawtome/laws/the-church-turing-thesis/
+227,the-p-versus-np-problem,The P versus NP Problem,software,Contested,1971,Stephen Cook and Leonid Levin,https://conyso.com/lawtome/laws/the-p-versus-np-problem/
+228,the-no-free-lunch-theorem,The No Free Lunch Theorem,software,Empirical,1997,David Wolpert and William Macready,https://conyso.com/lawtome/laws/the-no-free-lunch-theorem/
+229,the-cap-theorem,The CAP Theorem,software,Empirical,2002,Eric Brewer,https://conyso.com/lawtome/laws/the-cap-theorem/
+230,the-two-generals-problem,The Two Generals' Problem,software,Empirical,1975,,https://conyso.com/lawtome/laws/the-two-generals-problem/
+231,the-byzantine-generals-problem,The Byzantine Generals Problem,software,Empirical,1982,"Leslie Lamport, Robert Shostak, and Marshall Pease",https://conyso.com/lawtome/laws/the-byzantine-generals-problem/
+232,rices-theorem,Rice's Theorem,software,Empirical,1953,Henry Gordon Rice,https://conyso.com/lawtome/laws/rices-theorem/
+233,shannons-source-coding-theorem,Shannon's Source Coding Theorem,technology,Empirical,1948,Claude Shannon,https://conyso.com/lawtome/laws/shannons-source-coding-theorem/
+234,the-four-color-theorem,The Four Color Theorem,mathematics,Empirical,1976,Francis Guthrie,https://conyso.com/lawtome/laws/the-four-color-theorem/
+235,cantors-theorem,Cantor's Theorem,mathematics,Empirical,1891,Georg Cantor,https://conyso.com/lawtome/laws/cantors-theorem/
+236,the-fundamental-theorem-of-arithmetic,The Fundamental Theorem of Arithmetic,mathematics,Empirical,1801,Carl Friedrich Gauss,https://conyso.com/lawtome/laws/the-fundamental-theorem-of-arithmetic/
+237,the-prime-number-theorem,The Prime Number Theorem,mathematics,Empirical,1896,,https://conyso.com/lawtome/laws/the-prime-number-theorem/
+238,the-anchoring-effect,The Anchoring Effect,psychology,Empirical,1974,Amos Tversky and Daniel Kahneman,https://conyso.com/lawtome/laws/the-anchoring-effect/
+239,the-availability-heuristic,The Availability Heuristic,psychology,Empirical,1973,Amos Tversky and Daniel Kahneman,https://conyso.com/lawtome/laws/the-availability-heuristic/
+240,confirmation-bias,Confirmation Bias,psychology,Empirical,1960,Peter Wason,https://conyso.com/lawtome/laws/confirmation-bias/
+242,loss-aversion,Loss Aversion,psychology,Contested,1979,Daniel Kahneman and Amos Tversky,https://conyso.com/lawtome/laws/loss-aversion/
+243,the-endowment-effect,The Endowment Effect,psychology,Contested,1980,Richard Thaler,https://conyso.com/lawtome/laws/the-endowment-effect/
+244,the-mere-exposure-effect,The Mere-Exposure Effect,psychology,Empirical,1968,Robert Zajonc,https://conyso.com/lawtome/laws/the-mere-exposure-effect/
+245,cognitive-dissonance,Cognitive Dissonance,psychology,Empirical,1957,Leon Festinger,https://conyso.com/lawtome/laws/cognitive-dissonance/
+246,the-bystander-effect,The Bystander Effect,psychology,Contested,1968,John Darley and Bibb Latane,https://conyso.com/lawtome/laws/the-bystander-effect/
+247,the-flynn-effect,The Flynn Effect,psychology,Empirical,1994,James Flynn,https://conyso.com/lawtome/laws/the-flynn-effect/
+248,the-serial-position-effect,The Serial Position Effect,psychology,Empirical,1962,Hermann Ebbinghaus,https://conyso.com/lawtome/laws/the-serial-position-effect/
+249,the-forer-effect,The Forer Effect,psychology,Empirical,1949,Bertram Forer,https://conyso.com/lawtome/laws/the-forer-effect/
+252,the-law-of-truly-large-numbers,The Law of Truly Large Numbers,statistics,Heuristic,1989,Persi Diaconis and Frederick Mosteller,https://conyso.com/lawtome/laws/the-law-of-truly-large-numbers/
+253,the-inspection-paradox,The Inspection Paradox,statistics,Empirical,1991,,https://conyso.com/lawtome/laws/the-inspection-paradox/
+255,the-law-of-laplace,The Law of Laplace,physics,Empirical,1806,Pierre-Simon Laplace,https://conyso.com/lawtome/laws/the-law-of-laplace/
+256,the-all-or-none-law,The All-or-None Law,medicine,Empirical,1871,Henry Pickering Bowditch,https://conyso.com/lawtome/laws/the-all-or-none-law/
+257,the-hagen-poiseuille-equation,The Hagen-Poiseuille Equation,physics,Empirical,1840,Jean Leonard Marie Poiseuille and Gotthilf Hagen,https://conyso.com/lawtome/laws/the-hagen-poiseuille-equation/
+258,grimms-law,Grimm's Law,linguistics,Empirical,1822,Jacob Grimm,https://conyso.com/lawtome/laws/grimms-law/
+259,the-gricean-maxims,The Gricean Maxims,philosophy,Heuristic,1975,H. Paul Grice,https://conyso.com/lawtome/laws/the-gricean-maxims/
+260,the-sapir-whorf-hypothesis,The Sapir-Whorf Hypothesis,philosophy,Contested,,Edward Sapir and Benjamin Lee Whorf,https://conyso.com/lawtome/laws/the-sapir-whorf-hypothesis/
+261,the-mcgurk-effect,The McGurk Effect,psychology,Empirical,1976,Harry McGurk and John MacDonald,https://conyso.com/lawtome/laws/the-mcgurk-effect/
+262,the-prisoners-dilemma,The Prisoner's Dilemma,economics,Empirical,1950,Albert Tucker,https://conyso.com/lawtome/laws/the-prisoners-dilemma/
+263,the-nash-equilibrium,The Nash Equilibrium,economics,Empirical,1951,John Forbes Nash,https://conyso.com/lawtome/laws/the-nash-equilibrium/
+264,the-tragedy-of-the-commons,The Tragedy of the Commons,economics,Contested,1968,Garrett Hardin,https://conyso.com/lawtome/laws/the-tragedy-of-the-commons/
+265,the-free-rider-problem,The Free-Rider Problem,economics,Empirical,1965,Mancur Olson,https://conyso.com/lawtome/laws/the-free-rider-problem/
+266,moral-hazard,Moral Hazard,economics,Empirical,1963,,https://conyso.com/lawtome/laws/moral-hazard/
+267,the-market-for-lemons,The Market for Lemons,economics,Empirical,1970,George Akerlof,https://conyso.com/lawtome/laws/the-market-for-lemons/
+268,the-ultimatum-game,The Ultimatum Game,economics,Empirical,1982,"Werner Guth, Rolf Schmittberger, and Bernd Schwarze",https://conyso.com/lawtome/laws/the-ultimatum-game/
+269,tit-for-tat,Tit for Tat,economics,Heuristic,1981,Anatol Rapoport,https://conyso.com/lawtome/laws/tit-for-tat/
+270,the-stag-hunt,The Stag Hunt,economics,Empirical,1755,,https://conyso.com/lawtome/laws/the-stag-hunt/
+271,the-shapley-value,The Shapley Value,economics,Empirical,1953,Lloyd Shapley,https://conyso.com/lawtome/laws/the-shapley-value/
+272,the-folk-theorem,The Folk Theorem,economics,Empirical,1971,,https://conyso.com/lawtome/laws/the-folk-theorem/
+273,zero-sum-game,The Zero-Sum Game,economics,Empirical,1928,John von Neumann,https://conyso.com/lawtome/laws/zero-sum-game/
+274,the-minimax-theorem,The Minimax Theorem,economics,Empirical,1928,John von Neumann,https://conyso.com/lawtome/laws/the-minimax-theorem/
+275,the-ideal-gas-law,The Ideal Gas Law,chemistry,Empirical,1834,Benoit Paul Emile Clapeyron,https://conyso.com/lawtome/laws/the-ideal-gas-law/
+276,hunds-rule,Hund's Rule,chemistry,Empirical,1925,Friedrich Hund,https://conyso.com/lawtome/laws/hunds-rule/
+277,the-aufbau-principle,The Aufbau Principle,chemistry,Heuristic,1936,,https://conyso.com/lawtome/laws/the-aufbau-principle/
+278,the-octet-rule,The Octet Rule,chemistry,Heuristic,1919,Irving Langmuir,https://conyso.com/lawtome/laws/the-octet-rule/
+279,markovnikovs-rule,Markovnikov's Rule,chemistry,Empirical,1870,Vladimir Markovnikov,https://conyso.com/lawtome/laws/markovnikovs-rule/
+280,the-gibbs-phase-rule,The Gibbs Phase Rule,chemistry,Empirical,1875,Josiah Willard Gibbs,https://conyso.com/lawtome/laws/the-gibbs-phase-rule/
+281,the-third-law-of-thermodynamics,The Third Law of Thermodynamics,physics,Empirical,1906,Walther Nernst,https://conyso.com/lawtome/laws/the-third-law-of-thermodynamics/
+282,the-zeroth-law-of-thermodynamics,The Zeroth Law of Thermodynamics,physics,Empirical,1939,Ralph Fowler,https://conyso.com/lawtome/laws/the-zeroth-law-of-thermodynamics/
+283,mass-energy-equivalence,Mass-Energy Equivalence,physics,Empirical,1905,Albert Einstein,https://conyso.com/lawtome/laws/mass-energy-equivalence/
+284,the-photoelectric-effect,The Photoelectric Effect,physics,Empirical,1905,Albert Einstein,https://conyso.com/lawtome/laws/the-photoelectric-effect/
+285,the-de-broglie-hypothesis,The de Broglie Hypothesis,physics,Empirical,1924,Louis de Broglie,https://conyso.com/lawtome/laws/the-de-broglie-hypothesis/
+286,the-equivalence-principle,The Equivalence Principle,physics,Empirical,1907,Albert Einstein,https://conyso.com/lawtome/laws/the-equivalence-principle/
+287,the-conservation-of-momentum,The Conservation of Momentum,physics,Empirical,,,https://conyso.com/lawtome/laws/the-conservation-of-momentum/
+289,the-sunk-cost-fallacy,The Sunk Cost Fallacy,economics,Empirical,1985,,https://conyso.com/lawtome/laws/the-sunk-cost-fallacy/
+290,the-planning-fallacy,The Planning Fallacy,psychology,Empirical,1979,Daniel Kahneman and Amos Tversky,https://conyso.com/lawtome/laws/the-planning-fallacy/
+291,the-framing-effect,The Framing Effect,psychology,Empirical,1981,Amos Tversky and Daniel Kahneman,https://conyso.com/lawtome/laws/the-framing-effect/
+292,hyperbolic-discounting,Hyperbolic Discounting,economics,Contested,1975,,https://conyso.com/lawtome/laws/hyperbolic-discounting/
+293,the-decoy-effect,The Decoy Effect,psychology,Contested,1982,,https://conyso.com/lawtome/laws/the-decoy-effect/
+295,the-von-restorff-effect,The Von Restorff Effect,psychology,Empirical,1933,Hedwig von Restorff,https://conyso.com/lawtome/laws/the-von-restorff-effect/
+296,the-spacing-effect,The Spacing Effect,psychology,Empirical,1885,Hermann Ebbinghaus,https://conyso.com/lawtome/laws/the-spacing-effect/
+297,the-testing-effect,The Testing Effect,psychology,Empirical,2006,Henry Roediger and Jeffrey Karpicke,https://conyso.com/lawtome/laws/the-testing-effect/
+303,the-law-of-mass-action,The Law of Mass Action,chemistry,Empirical,1864,Cato Guldberg and Peter Waage,https://conyso.com/lawtome/laws/the-law-of-mass-action/
+307,the-law-of-reflection,The Law of Reflection,physics,Empirical,,,https://conyso.com/lawtome/laws/the-law-of-reflection/
+308,huygens-principle,Huygens' Principle,physics,Empirical,1690,Christiaan Huygens,https://conyso.com/lawtome/laws/huygens-principle/
+309,charles-law,Charles's Law,chemistry,Empirical,1787,Jacques Charles,https://conyso.com/lawtome/laws/charles-law/
+310,the-clausius-clapeyron-relation,The Clausius-Clapeyron Relation,physics,Empirical,1834,Rudolf Clausius and Benoit Clapeyron,https://conyso.com/lawtome/laws/the-clausius-clapeyron-relation/
+311,the-law-of-definite-proportions,The Law of Definite Proportions,chemistry,Empirical,1799,Joseph Louis Proust,https://conyso.com/lawtome/laws/the-law-of-definite-proportions/
+312,the-law-of-multiple-proportions,The Law of Multiple Proportions,chemistry,Empirical,1803,John Dalton,https://conyso.com/lawtome/laws/the-law-of-multiple-proportions/
+313,the-rydberg-formula,The Rydberg Formula,physics,Empirical,1888,Johannes Rydberg,https://conyso.com/lawtome/laws/the-rydberg-formula/
+315,stevens-power-law,Stevens' Power Law,psychology,Empirical,1957,Stanley Smith Stevens,https://conyso.com/lawtome/laws/stevens-power-law/
+318,the-square-cube-law,The Square-Cube Law,physics,Empirical,1638,Galileo Galilei,https://conyso.com/lawtome/laws/the-square-cube-law/
+319,the-phillips-curve,The Phillips Curve,economics,Contested,1958,A. W. Phillips,https://conyso.com/lawtome/laws/the-phillips-curve/
+320,the-efficient-market-hypothesis,The Efficient-Market Hypothesis,economics,Contested,1970,Eugene Fama,https://conyso.com/lawtome/laws/the-efficient-market-hypothesis/
+321,the-random-walk-hypothesis,The Random Walk Hypothesis,economics,Contested,1900,,https://conyso.com/lawtome/laws/the-random-walk-hypothesis/
+322,the-quantity-theory-of-money,The Quantity Theory of Money,economics,Contested,1911,Irving Fisher,https://conyso.com/lawtome/laws/the-quantity-theory-of-money/
+323,the-winners-curse,The Winner's Curse,economics,Empirical,1971,,https://conyso.com/lawtome/laws/the-winners-curse/
+325,the-broken-windows-theory,The Broken Windows Theory,sociology,Contested,1982,James Q. Wilson and George Kelling,https://conyso.com/lawtome/laws/the-broken-windows-theory/
+326,the-just-world-hypothesis,The Just-World Hypothesis,psychology,Empirical,1980,Melvin Lerner,https://conyso.com/lawtome/laws/the-just-world-hypothesis/
+327,the-competitive-exclusion-principle,The Competitive Exclusion Principle,biology,Empirical,1960,Georgy Gause,https://conyso.com/lawtome/laws/the-competitive-exclusion-principle/
+328,the-allee-effect,The Allee Effect,biology,Empirical,1949,Warder Clyde Allee,https://conyso.com/lawtome/laws/the-allee-effect/
+329,hamiltons-rule,Hamilton's Rule,biology,Empirical,1964,W. D. Hamilton,https://conyso.com/lawtome/laws/hamiltons-rule/
+330,the-price-equation,The Price Equation,biology,Empirical,1970,George R. Price,https://conyso.com/lawtome/laws/the-price-equation/
+331,the-baldwin-effect,The Baldwin Effect,biology,Contested,1896,James Mark Baldwin,https://conyso.com/lawtome/laws/the-baldwin-effect/
+332,the-founder-effect,The Founder Effect,biology,Empirical,1954,Ernst Mayr,https://conyso.com/lawtome/laws/the-founder-effect/
+333,genetic-drift,Genetic Drift,biology,Empirical,1931,Sewall Wright,https://conyso.com/lawtome/laws/genetic-drift/
+334,the-neutral-theory-of-molecular-evolution,The Neutral Theory of Molecular Evolution,biology,Empirical,1968,Motoo Kimura,https://conyso.com/lawtome/laws/the-neutral-theory-of-molecular-evolution/
+335,the-biogenetic-law,The Biogenetic Law,biology,Contested,1866,Ernst Haeckel,https://conyso.com/lawtome/laws/the-biogenetic-law/
+336,rapoports-rule,Rapoport's Rule,biology,Contested,1989,Eduardo H. Rapoport,https://conyso.com/lawtome/laws/rapoports-rule/
+338,the-species-area-relationship,The Species-Area Relationship,biology,Empirical,1921,,https://conyso.com/lawtome/laws/the-species-area-relationship/
+339,willistons-law,Williston's Law,biology,Heuristic,1914,Samuel Wendell Williston,https://conyso.com/lawtome/laws/willistons-law/
+342,the-secretary-problem,The Secretary Problem,statistics,Empirical,1960,,https://conyso.com/lawtome/laws/the-secretary-problem/
+343,survivorship-bias,Survivorship Bias,statistics,Empirical,1943,,https://conyso.com/lawtome/laws/survivorship-bias/
+347,the-end-to-end-principle,The End-to-End Principle,software,Empirical,1981,"Saltzer, Reed, and Clark",https://conyso.com/lawtome/laws/the-end-to-end-principle/
+348,kerckhoffs-principle,Kerckhoffs's Principle,software,Empirical,1883,Auguste Kerckhoffs,https://conyso.com/lawtome/laws/kerckhoffs-principle/
+349,the-fallacies-of-distributed-computing,The Fallacies of Distributed Computing,software,Heuristic,1994,L. Peter Deutsch,https://conyso.com/lawtome/laws/the-fallacies-of-distributed-computing/
+350,dennard-scaling,Dennard Scaling,technology,Empirical,1974,Robert Dennard,https://conyso.com/lawtome/laws/dennard-scaling/
+351,the-mcnamara-fallacy,The McNamara Fallacy,management,Folk-adage,1972,Robert McNamara,https://conyso.com/lawtome/laws/the-mcnamara-fallacy/
+352,hitchens-razor,Hitchens's Razor,logic,Heuristic,2007,Christopher Hitchens,https://conyso.com/lawtome/laws/hitchens-razor/
+353,the-ship-of-theseus,The Ship of Theseus,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-ship-of-theseus/
+354,the-sorites-paradox,The Sorites Paradox,logic,Contested,,Eubulides of Miletus,https://conyso.com/lawtome/laws/the-sorites-paradox/
+355,the-liar-paradox,The Liar Paradox,logic,Contested,,Eubulides of Miletus,https://conyso.com/lawtome/laws/the-liar-paradox/
+356,russells-paradox,Russell's Paradox,logic,Empirical,1901,Bertrand Russell,https://conyso.com/lawtome/laws/russells-paradox/
+357,the-munchhausen-trilemma,The Münchhausen Trilemma,philosophy,Contested,1968,Hans Albert,https://conyso.com/lawtome/laws/the-munchhausen-trilemma/
+358,newcombs-paradox,Newcomb's Paradox,philosophy,Contested,1969,William Newcomb,https://conyso.com/lawtome/laws/newcombs-paradox/
+359,the-trolley-problem,The Trolley Problem,philosophy,Contested,1967,Philippa Foot,https://conyso.com/lawtome/laws/the-trolley-problem/
+360,the-chinese-room,The Chinese Room,philosophy,Contested,1980,John Searle,https://conyso.com/lawtome/laws/the-chinese-room/
+361,the-problem-of-induction,The Problem of Induction,philosophy,Contested,,David Hume,https://conyso.com/lawtome/laws/the-problem-of-induction/
+363,moravecs-paradox,Moravec's Paradox,technology,Heuristic,1988,Hans Moravec,https://conyso.com/lawtome/laws/moravecs-paradox/
+364,the-veil-of-ignorance,The Veil of Ignorance,philosophy,Contested,1971,John Rawls,https://conyso.com/lawtome/laws/the-veil-of-ignorance/
+365,torricellis-law,Torricelli's Law,physics,Empirical,1643,Evangelista Torricelli,https://conyso.com/lawtome/laws/torricellis-law/
+366,stokes-law,Stokes' Law,physics,Empirical,1851,George Gabriel Stokes,https://conyso.com/lawtome/laws/stokes-law/
+367,brewsters-angle,Brewster's Angle,physics,Empirical,1815,David Brewster,https://conyso.com/lawtome/laws/brewsters-angle/
+368,rayleigh-scattering,Rayleigh Scattering,physics,Empirical,1871,Lord Rayleigh,https://conyso.com/lawtome/laws/rayleigh-scattering/
+369,titius-bode-law,The Titius-Bode Law,astronomy,Contested,1766,Johann Daniel Titius and Johann Elert Bode,https://conyso.com/lawtome/laws/titius-bode-law/
+370,braess-paradox,Braess's Paradox,planning,Empirical,1968,Dietrich Braess,https://conyso.com/lawtome/laws/braess-paradox/
+371,parrondos-paradox,Parrondo's Paradox,statistics,Empirical,1996,Juan Parrondo,https://conyso.com/lawtome/laws/parrondos-paradox/
+372,will-rogers-phenomenon,The Will Rogers Phenomenon,statistics,Heuristic,1985,Will Rogers,https://conyso.com/lawtome/laws/will-rogers-phenomenon/
+373,verners-law,Verner's Law,linguistics,Empirical,1875,Karl Verner,https://conyso.com/lawtome/laws/verners-law/
+374,shirky-principle,The Shirky Principle,sociology,Heuristic,2010,Clay Shirky,https://conyso.com/lawtome/laws/shirky-principle/
+375,kernighans-law,Kernighan's Law,software,Folk-adage,1978,Brian Kernighan,https://conyso.com/lawtome/laws/kernighans-law/
+376,law-of-leaky-abstractions,The Law of Leaky Abstractions,software,Heuristic,2002,,https://conyso.com/lawtome/laws/law-of-leaky-abstractions/
+377,teslers-law,Tesler's Law,technology,Heuristic,1984,Larry Tesler,https://conyso.com/lawtome/laws/teslers-law/
+378,olbers-paradox,Olbers' Paradox,astronomy,Empirical,1823,Heinrich Wilhelm Olbers,https://conyso.com/lawtome/laws/olbers-paradox/
+379,fermi-paradox,The Fermi Paradox,astronomy,Contested,1950,Enrico Fermi,https://conyso.com/lawtome/laws/fermi-paradox/
+380,drake-equation,The Drake Equation,astronomy,Heuristic,1961,Frank Drake,https://conyso.com/lawtome/laws/drake-equation/
+381,zenos-paradoxes,Zeno's Paradoxes,philosophy,Contested,,Zeno of Elea,https://conyso.com/lawtome/laws/zenos-paradoxes/
+382,banach-tarski-paradox,The Banach-Tarski Paradox,mathematics,Empirical,1924,Stefan Banach and Alfred Tarski,https://conyso.com/lawtome/laws/banach-tarski-paradox/
+383,infinite-monkey-theorem,The Infinite Monkey Theorem,statistics,Empirical,1913,Émile Borel,https://conyso.com/lawtome/laws/infinite-monkey-theorem/
+384,coriolis-effect,The Coriolis Effect,physics,Empirical,1835,Gaspard-Gustave de Coriolis,https://conyso.com/lawtome/laws/coriolis-effect/
+385,magnus-effect,The Magnus Effect,physics,Empirical,1852,Heinrich Gustav Magnus,https://conyso.com/lawtome/laws/magnus-effect/
+386,mpemba-effect,The Mpemba Effect,physics,Contested,1969,Erasto Mpemba,https://conyso.com/lawtome/laws/mpemba-effect/
+387,brownian-motion,Brownian Motion,physics,Empirical,1827,Robert Brown,https://conyso.com/lawtome/laws/brownian-motion/
+389,michaelis-menten-kinetics,Michaelis-Menten Kinetics,biology,Empirical,1913,Leonor Michaelis and Maud Menten,https://conyso.com/lawtome/laws/michaelis-menten-kinetics/
+390,easterlin-paradox,The Easterlin Paradox,economics,Contested,1974,Richard Easterlin,https://conyso.com/lawtome/laws/easterlin-paradox/
+391,the-spotlight-effect,The Spotlight Effect,psychology,Empirical,2000,,https://conyso.com/lawtome/laws/the-spotlight-effect/
+392,the-curse-of-knowledge,The Curse of Knowledge,psychology,Empirical,1989,,https://conyso.com/lawtome/laws/the-curse-of-knowledge/
+393,the-illusory-truth-effect,The Illusory Truth Effect,psychology,Empirical,1977,,https://conyso.com/lawtome/laws/the-illusory-truth-effect/
+394,the-hindsight-bias,The Hindsight Bias,psychology,Empirical,1975,,https://conyso.com/lawtome/laws/the-hindsight-bias/
+395,the-fundamental-attribution-error,The Fundamental Attribution Error,psychology,Empirical,1977,,https://conyso.com/lawtome/laws/the-fundamental-attribution-error/
+396,the-self-serving-bias,The Self-Serving Bias,psychology,Empirical,1975,,https://conyso.com/lawtome/laws/the-self-serving-bias/
+397,the-optimism-bias,The Optimism Bias,psychology,Empirical,1980,,https://conyso.com/lawtome/laws/the-optimism-bias/
+398,the-peak-end-rule,The Peak-End Rule,psychology,Empirical,1993,,https://conyso.com/lawtome/laws/the-peak-end-rule/
+399,the-ikea-effect,The IKEA Effect,economics,Empirical,2012,,https://conyso.com/lawtome/laws/the-ikea-effect/
+400,the-backfire-effect,The Backfire Effect,psychology,Contested,2010,,https://conyso.com/lawtome/laws/the-backfire-effect/
+401,the-negativity-bias,The Negativity Bias,psychology,Empirical,2001,,https://conyso.com/lawtome/laws/the-negativity-bias/
+402,the-diderot-effect,The Diderot Effect,sociology,Heuristic,1988,Denis Diderot,https://conyso.com/lawtome/laws/the-diderot-effect/
+403,the-bandwagon-effect,The Bandwagon Effect,economics,Empirical,1950,,https://conyso.com/lawtome/laws/the-bandwagon-effect/
+404,the-central-dogma-of-molecular-biology,The Central Dogma of Molecular Biology,biology,Empirical,1958,Francis Crick,https://conyso.com/lawtome/laws/the-central-dogma-of-molecular-biology/
+405,mendelian-inheritance,Mendelian Inheritance,biology,Empirical,1866,Gregor Mendel,https://conyso.com/lawtome/laws/mendelian-inheritance/
+406,chargaffs-rules,Chargaff's Rules,biology,Empirical,1950,Erwin Chargaff,https://conyso.com/lawtome/laws/chargaffs-rules/
+407,cell-theory,Cell Theory,biology,Empirical,1839,,https://conyso.com/lawtome/laws/cell-theory/
+408,germ-theory-of-disease,The Germ Theory of Disease,medicine,Empirical,,,https://conyso.com/lawtome/laws/germ-theory-of-disease/
+409,kochs-postulates,Koch's Postulates,medicine,Empirical,1884,Robert Koch,https://conyso.com/lawtome/laws/kochs-postulates/
+410,the-endosymbiotic-theory,The Endosymbiotic Theory,biology,Empirical,1967,Lynn Margulis,https://conyso.com/lawtome/laws/the-endosymbiotic-theory/
+411,the-one-gene-one-enzyme-hypothesis,The One Gene-One Enzyme Hypothesis,biology,Empirical,1941,George Beadle and Edward Tatum,https://conyso.com/lawtome/laws/the-one-gene-one-enzyme-hypothesis/
+412,the-hill-equation,The Hill Equation,biology,Empirical,1910,Archibald Vivian Hill,https://conyso.com/lawtome/laws/the-hill-equation/
+413,the-monro-kellie-doctrine,The Monro-Kellie Doctrine,medicine,Empirical,1783,Alexander Monro and George Kellie,https://conyso.com/lawtome/laws/the-monro-kellie-doctrine/
+414,the-lyon-hypothesis,The Lyon Hypothesis,biology,Empirical,1961,Mary Lyon,https://conyso.com/lawtome/laws/the-lyon-hypothesis/
+415,the-weismann-barrier,The Weismann Barrier,biology,Empirical,1892,August Weismann,https://conyso.com/lawtome/laws/the-weismann-barrier/
+416,the-lock-and-key-model,The Lock-and-Key Model,biology,Empirical,1894,Emil Fischer,https://conyso.com/lawtome/laws/the-lock-and-key-model/
+417,comparative-advantage,The Law of Comparative Advantage,economics,Empirical,1817,David Ricardo,https://conyso.com/lawtome/laws/comparative-advantage/
+418,creative-destruction,Creative Destruction,economics,Heuristic,1942,Joseph Schumpeter,https://conyso.com/lawtome/laws/creative-destruction/
+419,the-fisher-equation,The Fisher Equation,economics,Empirical,1896,Irving Fisher,https://conyso.com/lawtome/laws/the-fisher-equation/
+420,purchasing-power-parity,Purchasing Power Parity,economics,Empirical,1918,Gustav Cassel,https://conyso.com/lawtome/laws/purchasing-power-parity/
+421,the-broken-window-fallacy,The Broken Window Fallacy,economics,Heuristic,1850,Frederic Bastiat,https://conyso.com/lawtome/laws/the-broken-window-fallacy/
+422,the-lump-of-labour-fallacy,The Lump of Labour Fallacy,economics,Contested,1891,David Frederick Schloss,https://conyso.com/lawtome/laws/the-lump-of-labour-fallacy/
+424,the-impossible-trinity,The Impossible Trinity,economics,Empirical,1963,Robert Mundell,https://conyso.com/lawtome/laws/the-impossible-trinity/
+425,ricardian-equivalence,Ricardian Equivalence,economics,Contested,1974,Robert Barro,https://conyso.com/lawtome/laws/ricardian-equivalence/
+426,the-median-voter-theorem,The Median Voter Theorem,economics,Empirical,1948,Duncan Black,https://conyso.com/lawtome/laws/the-median-voter-theorem/
+427,the-game-of-chicken,The Game of Chicken,planning,Empirical,,,https://conyso.com/lawtome/laws/the-game-of-chicken/
+428,the-centipede-game,The Centipede Game,economics,Empirical,1981,Robert Rosenthal,https://conyso.com/lawtome/laws/the-centipede-game/
+429,the-dictator-game,The Dictator Game,economics,Empirical,1994,,https://conyso.com/lawtome/laws/the-dictator-game/
+430,the-law-of-the-instrument,The Law of the Instrument,psychology,Heuristic,1964,Abraham Kaplan and Abraham Maslow,https://conyso.com/lawtome/laws/the-law-of-the-instrument/
+432,the-network-effect,The Network Effect,economics,Empirical,,,https://conyso.com/lawtome/laws/the-network-effect/
+433,the-bullwhip-effect,The Bullwhip Effect,management,Empirical,1997,,https://conyso.com/lawtome/laws/the-bullwhip-effect/
+434,heaps-law,Heaps' Law,software,Empirical,1978,Harold Stanley Heaps and Gustav Herdan,https://conyso.com/lawtome/laws/heaps-law/
+435,menzeraths-law,Menzerath's Law,media,Contested,1954,Paul Menzerath and Gabriel Altmann,https://conyso.com/lawtome/laws/menzeraths-law/
+437,the-rank-size-rule,The Rank-Size Rule,statistics,Contested,1913,"Felix Auerbach, Alfred Lotka, and George Kingsley Zipf",https://conyso.com/lawtome/laws/the-rank-size-rule/
+438,the-experience-curve,The Experience Curve,management,Empirical,1968,Bruce Henderson and the Boston Consulting Group,https://conyso.com/lawtome/laws/the-experience-curve/
+439,swansons-law,Swanson's Law,technology,Empirical,2012,Richard Swanson,https://conyso.com/lawtome/laws/swansons-law/
+440,pournelles-iron-law-of-bureaucracy,Pournelle's Iron Law of Bureaucracy,sociology,Folk-adage,,Jerry Pournelle,https://conyso.com/lawtome/laws/pournelles-iron-law-of-bureaucracy/
+441,the-lehman-laws,Lehman's Laws of Software Evolution,software,Empirical,1980,Meir Lehman,https://conyso.com/lawtome/laws/the-lehman-laws/
+442,beckstroms-law,Beckstrom's Law,technology,Heuristic,2009,Rod Beckstrom,https://conyso.com/lawtome/laws/beckstroms-law/
+443,the-great-filter,The Great Filter,astronomy,Contested,1998,Robin Hanson,https://conyso.com/lawtome/laws/the-great-filter/
+444,the-kardashev-scale,The Kardashev Scale,astronomy,Heuristic,1964,Nikolai Kardashev,https://conyso.com/lawtome/laws/the-kardashev-scale/
+445,the-copernican-principle,The Copernican Principle,astronomy,Heuristic,1952,Nicolaus Copernicus,https://conyso.com/lawtome/laws/the-copernican-principle/
+446,the-anthropic-principle,The Anthropic Principle,philosophy,Contested,1974,Brandon Carter,https://conyso.com/lawtome/laws/the-anthropic-principle/
+447,the-fine-tuned-universe,The Fine-Tuned Universe,astronomy,Contested,1999,,https://conyso.com/lawtome/laws/the-fine-tuned-universe/
+448,the-doomsday-argument,The Doomsday Argument,philosophy,Contested,1983,Brandon Carter,https://conyso.com/lawtome/laws/the-doomsday-argument/
+449,the-simulation-argument,The Simulation Argument,philosophy,Contested,2003,Nick Bostrom,https://conyso.com/lawtome/laws/the-simulation-argument/
+450,boltzmann-brain,The Boltzmann Brain,astronomy,Contested,,,https://conyso.com/lawtome/laws/boltzmann-brain/
+451,the-rare-earth-hypothesis,The Rare Earth Hypothesis,astronomy,Contested,2000,Peter Ward and Donald Brownlee,https://conyso.com/lawtome/laws/the-rare-earth-hypothesis/
+452,the-gaia-hypothesis,The Gaia Hypothesis,earth-science,Contested,1979,James Lovelock,https://conyso.com/lawtome/laws/the-gaia-hypothesis/
+453,the-medea-hypothesis,The Medea Hypothesis,biology,Contested,2009,Peter Ward,https://conyso.com/lawtome/laws/the-medea-hypothesis/
+454,panspermia,Panspermia,astronomy,Contested,,Svante Arrhenius,https://conyso.com/lawtome/laws/panspermia/
+455,the-faint-young-sun-paradox,The Faint Young Sun Paradox,astronomy,Empirical,1972,Carl Sagan and George Mullen,https://conyso.com/lawtome/laws/the-faint-young-sun-paradox/
+456,plate-tectonics,Plate Tectonics,earth-science,Empirical,1968,,https://conyso.com/lawtome/laws/plate-tectonics/
+457,continental-drift,Continental Drift,earth-science,Empirical,1912,Alfred Wegener,https://conyso.com/lawtome/laws/continental-drift/
+458,isostasy,Isostasy,earth-science,Empirical,1882,Clarence Dutton,https://conyso.com/lawtome/laws/isostasy/
+459,the-uniformitarian-principle,The Uniformitarian Principle,earth-science,Empirical,1832,James Hutton and Charles Lyell,https://conyso.com/lawtome/laws/the-uniformitarian-principle/
+460,the-principle-of-superposition,The Principle of Superposition,earth-science,Empirical,1669,Nicolas Steno,https://conyso.com/lawtome/laws/the-principle-of-superposition/
+461,the-principle-of-faunal-succession,The Principle of Faunal Succession,earth-science,Empirical,1799,William Smith,https://conyso.com/lawtome/laws/the-principle-of-faunal-succession/
+462,milankovitch-cycles,Milankovitch Cycles,earth-science,Empirical,1941,Milutin Milankovitch,https://conyso.com/lawtome/laws/milankovitch-cycles/
+463,snowball-earth,Snowball Earth,earth-science,Contested,1992,Joseph Kirschvink,https://conyso.com/lawtome/laws/snowball-earth/
+464,the-great-oxidation-event,The Great Oxidation Event,earth-science,Empirical,,,https://conyso.com/lawtome/laws/the-great-oxidation-event/
+465,the-thermohaline-circulation,The Thermohaline Circulation,earth-science,Empirical,1991,Wallace Broecker,https://conyso.com/lawtome/laws/the-thermohaline-circulation/
+466,the-hadley-cell,The Hadley Cell,earth-science,Empirical,1735,George Hadley,https://conyso.com/lawtome/laws/the-hadley-cell/
+467,the-el-nino-southern-oscillation,The El Nino-Southern Oscillation,earth-science,Empirical,1969,Gilbert Walker and Jacob Bjerknes,https://conyso.com/lawtome/laws/the-el-nino-southern-oscillation/
+468,the-keeling-curve,The Keeling Curve,earth-science,Empirical,1958,Charles David Keeling,https://conyso.com/lawtome/laws/the-keeling-curve/
+469,the-hodgkin-huxley-model,The Hodgkin-Huxley Model,medicine,Empirical,1952,Alan Hodgkin and Andrew Huxley,https://conyso.com/lawtome/laws/the-hodgkin-huxley-model/
+470,hebbs-rule,Hebb's Rule,medicine,Empirical,1949,Donald Hebb,https://conyso.com/lawtome/laws/hebbs-rule/
+471,long-term-potentiation,Long-Term Potentiation,medicine,Empirical,1973,Timothy Bliss and Terje Lomo,https://conyso.com/lawtome/laws/long-term-potentiation/
+472,the-sodium-potassium-pump,The Sodium-Potassium Pump,medicine,Empirical,1957,Jens Christian Skou,https://conyso.com/lawtome/laws/the-sodium-potassium-pump/
+473,the-frank-starling-law,The Frank-Starling Law of the Heart,medicine,Empirical,1918,Otto Frank and Ernest Starling,https://conyso.com/lawtome/laws/the-frank-starling-law/
+475,starlings-principle,Starling's Principle,medicine,Empirical,1896,Ernest Starling,https://conyso.com/lawtome/laws/starlings-principle/
+476,the-fick-principle,The Fick Principle,medicine,Empirical,1870,Adolf Fick,https://conyso.com/lawtome/laws/the-fick-principle/
+477,the-bohr-effect,The Bohr Effect,medicine,Empirical,1904,Christian Bohr,https://conyso.com/lawtome/laws/the-bohr-effect/
+478,the-haldane-effect,The Haldane Effect,medicine,Empirical,1914,John Scott Haldane,https://conyso.com/lawtome/laws/the-haldane-effect/
+479,the-henderson-hasselbalch-equation,The Henderson-Hasselbalch Equation,chemistry,Empirical,1916,Lawrence Henderson and Karl Hasselbalch,https://conyso.com/lawtome/laws/the-henderson-hasselbalch-equation/
+480,the-oxygen-hemoglobin-dissociation-curve,The Oxygen-Hemoglobin Dissociation Curve,medicine,Empirical,1904,,https://conyso.com/lawtome/laws/the-oxygen-hemoglobin-dissociation-curve/
+481,the-baroreceptor-reflex,The Baroreceptor Reflex,medicine,Empirical,,Heinrich Ewald Hering and Corneille Heymans,https://conyso.com/lawtome/laws/the-baroreceptor-reflex/
+482,the-fog-of-war,The Fog of War,planning,Heuristic,1832,Carl von Clausewitz,https://conyso.com/lawtome/laws/the-fog-of-war/
+483,lanchesters-laws,Lanchester's Laws,planning,Empirical,1916,Frederick William Lanchester,https://conyso.com/lawtome/laws/lanchesters-laws/
+484,the-ooda-loop,The OODA Loop,planning,Heuristic,1995,John Boyd,https://conyso.com/lawtome/laws/the-ooda-loop/
+485,the-culminating-point-of-victory,The Culminating Point of Victory,planning,Heuristic,1832,Carl von Clausewitz,https://conyso.com/lawtome/laws/the-culminating-point-of-victory/
+486,the-strategy-of-the-indirect-approach,The Strategy of the Indirect Approach,planning,Contested,1929,B. H. Liddell Hart,https://conyso.com/lawtome/laws/the-strategy-of-the-indirect-approach/
+487,mutual-assured-destruction,Mutual Assured Destruction,planning,Heuristic,,,https://conyso.com/lawtome/laws/mutual-assured-destruction/
+488,the-security-dilemma,The Security Dilemma,planning,Heuristic,1950,John Herz,https://conyso.com/lawtome/laws/the-security-dilemma/
+489,the-thucydides-trap,The Thucydides Trap,planning,Contested,2012,Thucydides,https://conyso.com/lawtome/laws/the-thucydides-trap/
+490,the-balance-of-power,The Balance of Power,planning,Contested,1979,,https://conyso.com/lawtome/laws/the-balance-of-power/
+491,the-democratic-peace-theory,The Democratic Peace Theory,planning,Contested,1983,Immanuel Kant,https://conyso.com/lawtome/laws/the-democratic-peace-theory/
+492,deterrence-theory,Deterrence Theory,planning,Heuristic,1946,Bernard Brodie,https://conyso.com/lawtome/laws/deterrence-theory/
+493,the-madman-theory,The Madman Theory,planning,Contested,,Richard Nixon,https://conyso.com/lawtome/laws/the-madman-theory/
+494,the-domino-theory,The Domino Theory,planning,Contested,1954,Dwight D. Eisenhower,https://conyso.com/lawtome/laws/the-domino-theory/
+496,self-organized-criticality,Self-Organized Criticality,physics,Contested,1987,Per Bak,https://conyso.com/lawtome/laws/self-organized-criticality/
+497,the-small-world-phenomenon,The Small-World Phenomenon,sociology,Empirical,1967,,https://conyso.com/lawtome/laws/the-small-world-phenomenon/
+498,preferential-attachment,Preferential Attachment,technology,Empirical,1999,,https://conyso.com/lawtome/laws/preferential-attachment/
+499,power-law-distribution,The Power-Law Distribution,statistics,Empirical,,,https://conyso.com/lawtome/laws/power-law-distribution/
+500,more-is-different,More Is Different,philosophy,Heuristic,1972,Philip W. Anderson,https://conyso.com/lawtome/laws/more-is-different/
+501,the-edge-of-chaos,The Edge of Chaos,physics,Contested,1988,,https://conyso.com/lawtome/laws/the-edge-of-chaos/
+502,the-law-of-requisite-variety,The Law of Requisite Variety,technology,Empirical,1956,W. Ross Ashby,https://conyso.com/lawtome/laws/the-law-of-requisite-variety/
+503,the-strength-of-weak-ties,The Strength of Weak Ties,sociology,Empirical,1973,Mark Granovetter,https://conyso.com/lawtome/laws/the-strength-of-weak-ties/
+504,the-adjacent-possible,The Adjacent Possible,biology,Heuristic,2000,Stuart Kauffman,https://conyso.com/lawtome/laws/the-adjacent-possible/
+505,cascading-failure,Cascading Failure,technology,Empirical,,,https://conyso.com/lawtome/laws/cascading-failure/
+506,the-butterfly-effect,The Butterfly Effect,physics,Empirical,1963,Edward Lorenz,https://conyso.com/lawtome/laws/the-butterfly-effect/
+507,stigmergy,Stigmergy,biology,Empirical,1959,Pierre-Paul Grassé,https://conyso.com/lawtome/laws/stigmergy/
+509,the-coupon-collectors-problem,The Coupon Collector's Problem,statistics,Empirical,,,https://conyso.com/lawtome/laws/the-coupon-collectors-problem/
+510,condorcets-jury-theorem,Condorcet's Jury Theorem,economics,Empirical,1785,Marquis de Condorcet,https://conyso.com/lawtome/laws/condorcets-jury-theorem/
+511,mays-theorem,May's Theorem,economics,Empirical,1952,Kenneth O. May,https://conyso.com/lawtome/laws/mays-theorem/
+512,the-revelation-principle,The Revelation Principle,economics,Empirical,1973,,https://conyso.com/lawtome/laws/the-revelation-principle/
+513,the-ellsberg-paradox,The Ellsberg Paradox,economics,Empirical,1961,Daniel Ellsberg,https://conyso.com/lawtome/laws/the-ellsberg-paradox/
+515,the-marginal-value-theorem,The Marginal Value Theorem,biology,Empirical,1976,,https://conyso.com/lawtome/laws/the-marginal-value-theorem/
+516,fishers-fundamental-theorem,Fisher's Fundamental Theorem of Natural Selection,biology,Empirical,1930,Ronald Fisher,https://conyso.com/lawtome/laws/fishers-fundamental-theorem/
+517,the-rule-of-72,The Rule of 72,economics,Heuristic,,,https://conyso.com/lawtome/laws/the-rule-of-72/
+518,the-taylor-rule,The Taylor Rule,economics,Heuristic,1993,John B. Taylor,https://conyso.com/lawtome/laws/the-taylor-rule/
+519,tobins-q,Tobin's q,economics,Heuristic,1969,James Tobin,https://conyso.com/lawtome/laws/tobins-q/
+520,the-iron-law-of-wages,The Iron Law of Wages,economics,Contested,1862,Ferdinand Lassalle,https://conyso.com/lawtome/laws/the-iron-law-of-wages/
+522,the-bohr-model,The Bohr Model,physics,Empirical,1913,Niels Bohr,https://conyso.com/lawtome/laws/the-bohr-model/
+523,the-schwarzschild-radius,The Schwarzschild Radius,astronomy,Empirical,1916,Karl Schwarzschild,https://conyso.com/lawtome/laws/the-schwarzschild-radius/
+524,keplers-third-law,Kepler's Third Law,astronomy,Empirical,1619,Johannes Kepler,https://conyso.com/lawtome/laws/keplers-third-law/
+526,the-carnot-theorem,Carnot's Theorem,physics,Empirical,1824,Sadi Carnot,https://conyso.com/lawtome/laws/the-carnot-theorem/
+528,the-eddington-limit,The Eddington Limit,astronomy,Empirical,1926,Arthur Eddington,https://conyso.com/lawtome/laws/the-eddington-limit/
+529,the-compton-effect,The Compton Effect,physics,Empirical,1923,Arthur Compton,https://conyso.com/lawtome/laws/the-compton-effect/
+530,the-equipartition-theorem,The Equipartition Theorem,physics,Empirical,1876,,https://conyso.com/lawtome/laws/the-equipartition-theorem/
+531,the-virial-theorem,The Virial Theorem,physics,Empirical,1870,Rudolf Clausius,https://conyso.com/lawtome/laws/the-virial-theorem/
+532,grahams-law-of-effusion,Graham's Law of Effusion,chemistry,Empirical,1848,Thomas Graham,https://conyso.com/lawtome/laws/grahams-law-of-effusion/
+534,kin-selection,Kin Selection,biology,Empirical,1964,,https://conyso.com/lawtome/laws/kin-selection/
+535,the-selfish-gene,The Selfish Gene,biology,Heuristic,1976,Richard Dawkins,https://conyso.com/lawtome/laws/the-selfish-gene/
+536,punctuated-equilibrium,Punctuated Equilibrium,biology,Contested,1972,,https://conyso.com/lawtome/laws/punctuated-equilibrium/
+537,sexual-selection,Sexual Selection,biology,Empirical,1871,Charles Darwin,https://conyso.com/lawtome/laws/sexual-selection/
+538,batesian-mimicry,Batesian Mimicry,biology,Empirical,1862,Henry Walter Bates,https://conyso.com/lawtome/laws/batesian-mimicry/
+539,mullerian-mimicry,Müllerian Mimicry,biology,Empirical,1878,Fritz Müller,https://conyso.com/lawtome/laws/mullerian-mimicry/
+540,island-biogeography,The Theory of Island Biogeography,biology,Empirical,1967,,https://conyso.com/lawtome/laws/island-biogeography/
+541,the-latitudinal-diversity-gradient,The Latitudinal Diversity Gradient,biology,Empirical,,,https://conyso.com/lawtome/laws/the-latitudinal-diversity-gradient/
+542,r-k-selection-theory,r/K Selection Theory,biology,Contested,1967,,https://conyso.com/lawtome/laws/r-k-selection-theory/
+543,the-metabolic-theory-of-ecology,The Metabolic Theory of Ecology,biology,Contested,2004,,https://conyso.com/lawtome/laws/the-metabolic-theory-of-ecology/
+544,taylors-law,Taylor's Law,statistics,Empirical,1961,Lionel Roy Taylor,https://conyso.com/lawtome/laws/taylors-law/
+545,the-error-catastrophe,The Error Catastrophe,biology,Empirical,1971,Manfred Eigen,https://conyso.com/lawtome/laws/the-error-catastrophe/
+546,batesons-rule,Bateson's Rule,biology,Heuristic,1894,William Bateson,https://conyso.com/lawtome/laws/batesons-rule/
+547,universal-grammar,Universal Grammar,media,Contested,1965,,https://conyso.com/lawtome/laws/universal-grammar/
+548,the-poverty-of-the-stimulus,The Poverty of the Stimulus,media,Contested,1980,,https://conyso.com/lawtome/laws/the-poverty-of-the-stimulus/
+549,the-critical-period-hypothesis,The Critical Period Hypothesis,media,Contested,1967,,https://conyso.com/lawtome/laws/the-critical-period-hypothesis/
+550,the-cooperative-principle,The Cooperative Principle,media,Heuristic,1975,,https://conyso.com/lawtome/laws/the-cooperative-principle/
+551,the-great-vowel-shift,The Great Vowel Shift,media,Empirical,,,https://conyso.com/lawtome/laws/the-great-vowel-shift/
+552,the-comparative-method,The Comparative Method,media,Empirical,,,https://conyso.com/lawtome/laws/the-comparative-method/
+553,the-neogrammarian-hypothesis,The Neogrammarian Hypothesis,media,Contested,1878,,https://conyso.com/lawtome/laws/the-neogrammarian-hypothesis/
+554,grassmanns-law,Grassmann's Law,linguistics,Empirical,1863,Hermann Grassmann,https://conyso.com/lawtome/laws/grassmanns-law/
+555,the-sonority-hierarchy,The Sonority Hierarchy,media,Empirical,,,https://conyso.com/lawtome/laws/the-sonority-hierarchy/
+556,the-arbitrariness-of-the-sign,The Arbitrariness of the Sign,media,Heuristic,1916,Ferdinand de Saussure,https://conyso.com/lawtome/laws/the-arbitrariness-of-the-sign/
+557,markedness,Markedness,media,Contested,,,https://conyso.com/lawtome/laws/markedness/
+558,wackernagels-law,Wackernagel's Law,media,Heuristic,1892,Jacob Wackernagel,https://conyso.com/lawtome/laws/wackernagels-law/
+559,brevity-law,The Brevity Law,media,Empirical,1935,George Kingsley Zipf,https://conyso.com/lawtome/laws/brevity-law/
+560,the-turing-machine,The Turing Machine,software,Empirical,1936,Alan Turing,https://conyso.com/lawtome/laws/the-turing-machine/
+561,the-lambda-calculus,The Lambda Calculus,software,Empirical,1936,Alonzo Church,https://conyso.com/lawtome/laws/the-lambda-calculus/
+562,the-entscheidungsproblem,The Entscheidungsproblem,software,Empirical,1928,,https://conyso.com/lawtome/laws/the-entscheidungsproblem/
+563,the-cook-levin-theorem,The Cook-Levin Theorem,software,Empirical,1971,,https://conyso.com/lawtome/laws/the-cook-levin-theorem/
+564,the-time-hierarchy-theorem,The Time Hierarchy Theorem,software,Empirical,1965,,https://conyso.com/lawtome/laws/the-time-hierarchy-theorem/
+565,the-pumping-lemma,The Pumping Lemma,software,Empirical,1959,,https://conyso.com/lawtome/laws/the-pumping-lemma/
+566,the-master-theorem,The Master Theorem,software,Empirical,1980,,https://conyso.com/lawtome/laws/the-master-theorem/
+567,the-flp-impossibility,The FLP Impossibility,software,Empirical,1985,,https://conyso.com/lawtome/laws/the-flp-impossibility/
+568,the-dining-philosophers-problem,The Dining Philosophers Problem,software,Heuristic,1965,Edsger Dijkstra,https://conyso.com/lawtome/laws/the-dining-philosophers-problem/
+569,the-shannon-hartley-theorem,The Shannon-Hartley Theorem,technology,Empirical,1948,,https://conyso.com/lawtome/laws/the-shannon-hartley-theorem/
+570,the-stable-marriage-problem,The Stable Marriage Problem,software,Empirical,1962,,https://conyso.com/lawtome/laws/the-stable-marriage-problem/
+571,the-traveling-salesman-problem,The Traveling Salesman Problem,software,Empirical,,,https://conyso.com/lawtome/laws/the-traveling-salesman-problem/
+572,the-ski-rental-problem,The Ski Rental Problem,software,Empirical,,,https://conyso.com/lawtome/laws/the-ski-rental-problem/
+573,euclids-theorem,Euclid's Theorem,mathematics,Empirical,,Euclid,https://conyso.com/lawtome/laws/euclids-theorem/
+574,fermats-little-theorem,Fermat's Little Theorem,mathematics,Empirical,1640,Pierre de Fermat,https://conyso.com/lawtome/laws/fermats-little-theorem/
+575,the-chinese-remainder-theorem,The Chinese Remainder Theorem,mathematics,Empirical,,,https://conyso.com/lawtome/laws/the-chinese-remainder-theorem/
+576,the-fundamental-theorem-of-algebra,The Fundamental Theorem of Algebra,mathematics,Empirical,,,https://conyso.com/lawtome/laws/the-fundamental-theorem-of-algebra/
+577,the-fundamental-theorem-of-calculus,The Fundamental Theorem of Calculus,mathematics,Empirical,,,https://conyso.com/lawtome/laws/the-fundamental-theorem-of-calculus/
+578,the-intermediate-value-theorem,The Intermediate Value Theorem,mathematics,Empirical,1817,,https://conyso.com/lawtome/laws/the-intermediate-value-theorem/
+579,the-brouwer-fixed-point-theorem,The Brouwer Fixed-Point Theorem,mathematics,Empirical,1911,L.E.J. Brouwer,https://conyso.com/lawtome/laws/the-brouwer-fixed-point-theorem/
+580,the-hairy-ball-theorem,The Hairy Ball Theorem,mathematics,Empirical,1912,,https://conyso.com/lawtome/laws/the-hairy-ball-theorem/
+581,the-riemann-hypothesis,The Riemann Hypothesis,mathematics,Contested,1859,Bernhard Riemann,https://conyso.com/lawtome/laws/the-riemann-hypothesis/
+582,the-continuum-hypothesis,The Continuum Hypothesis,mathematics,Contested,1878,,https://conyso.com/lawtome/laws/the-continuum-hypothesis/
+583,the-collatz-conjecture,The Collatz Conjecture,mathematics,Contested,1937,Lothar Collatz,https://conyso.com/lawtome/laws/the-collatz-conjecture/
+584,the-fundamental-theorem-of-galois-theory,The Fundamental Theorem of Galois Theory,mathematics,Empirical,,Evariste Galois,https://conyso.com/lawtome/laws/the-fundamental-theorem-of-galois-theory/
+585,the-binomial-theorem,The Binomial Theorem,mathematics,Empirical,,,https://conyso.com/lawtome/laws/the-binomial-theorem/
+586,eulers-polyhedron-formula,Euler's Polyhedron Formula,mathematics,Empirical,1750,Leonhard Euler,https://conyso.com/lawtome/laws/eulers-polyhedron-formula/
+587,fermats-last-theorem,Fermat's Last Theorem,mathematics,Empirical,1637,Pierre de Fermat,https://conyso.com/lawtome/laws/fermats-last-theorem/
+588,cantors-diagonal-argument,Cantor's Diagonal Argument,mathematics,Empirical,1891,Georg Cantor,https://conyso.com/lawtome/laws/cantors-diagonal-argument/
+589,the-cauchy-schwarz-inequality,The Cauchy-Schwarz Inequality,mathematics,Empirical,1821,,https://conyso.com/lawtome/laws/the-cauchy-schwarz-inequality/
+590,jensens-inequality,Jensen's Inequality,mathematics,Empirical,1906,Johan Jensen,https://conyso.com/lawtome/laws/jensens-inequality/
+591,the-mean-value-theorem,The Mean Value Theorem,mathematics,Empirical,,,https://conyso.com/lawtome/laws/the-mean-value-theorem/
+592,ramseys-theorem,Ramsey's Theorem,mathematics,Empirical,1930,Frank Plumpton Ramsey,https://conyso.com/lawtome/laws/ramseys-theorem/
+593,wilsons-theorem,Wilson's Theorem,mathematics,Empirical,,John Wilson,https://conyso.com/lawtome/laws/wilsons-theorem/
+594,lhopitals-rule,L'Hopital's Rule,mathematics,Empirical,1696,Guillaume de l'Hopital,https://conyso.com/lawtome/laws/lhopitals-rule/
+595,taylors-theorem,Taylor's Theorem,mathematics,Empirical,1715,Brook Taylor,https://conyso.com/lawtome/laws/taylors-theorem/
+596,the-euclidean-algorithm,The Euclidean Algorithm,software,Empirical,,Euclid,https://conyso.com/lawtome/laws/the-euclidean-algorithm/
+597,the-jordan-curve-theorem,The Jordan Curve Theorem,mathematics,Empirical,1887,Camille Jordan,https://conyso.com/lawtome/laws/the-jordan-curve-theorem/
+598,the-inclusion-exclusion-principle,The Inclusion-Exclusion Principle,mathematics,Empirical,,,https://conyso.com/lawtome/laws/the-inclusion-exclusion-principle/
+599,gauss-law,Gauss's Law,physics,Empirical,1835,Carl Friedrich Gauss,https://conyso.com/lawtome/laws/gauss-law/
+600,reynolds-number,The Reynolds Number,physics,Empirical,,Osborne Reynolds,https://conyso.com/lawtome/laws/reynolds-number/
+601,the-navier-stokes-equations,The Navier-Stokes Equations,physics,Empirical,,,https://conyso.com/lawtome/laws/the-navier-stokes-equations/
+602,the-hall-effect,The Hall Effect,physics,Empirical,1879,Edwin Hall,https://conyso.com/lawtome/laws/the-hall-effect/
+603,the-seebeck-effect,The Seebeck Effect,physics,Empirical,1821,Thomas Johann Seebeck,https://conyso.com/lawtome/laws/the-seebeck-effect/
+604,the-casimir-effect,The Casimir Effect,physics,Empirical,1948,Hendrik Casimir,https://conyso.com/lawtome/laws/the-casimir-effect/
+605,the-zeeman-effect,The Zeeman Effect,physics,Empirical,1896,Pieter Zeeman,https://conyso.com/lawtome/laws/the-zeeman-effect/
+606,the-meissner-effect,The Meissner Effect,physics,Empirical,1933,Walther Meissner,https://conyso.com/lawtome/laws/the-meissner-effect/
+607,the-de-broglie-wavelength,The de Broglie Wavelength,physics,Empirical,1924,Louis de Broglie,https://conyso.com/lawtome/laws/the-de-broglie-wavelength/
+608,the-joule-thomson-effect,The Joule-Thomson Effect,physics,Empirical,1852,,https://conyso.com/lawtome/laws/the-joule-thomson-effect/
+609,betzs-law,Betz's Law,technology,Empirical,1919,Albert Betz,https://conyso.com/lawtome/laws/betzs-law/
+610,the-ideal-rocket-equation,The Ideal Rocket Equation,technology,Empirical,1903,Konstantin Tsiolkovsky,https://conyso.com/lawtome/laws/the-ideal-rocket-equation/
+612,the-basic-reproduction-number,The Basic Reproduction Number,medicine,Empirical,,,https://conyso.com/lawtome/laws/the-basic-reproduction-number/
+613,herd-immunity,Herd Immunity,medicine,Empirical,,,https://conyso.com/lawtome/laws/herd-immunity/
+614,the-bradford-hill-criteria,The Bradford Hill Criteria,medicine,Heuristic,1965,Austin Bradford Hill,https://conyso.com/lawtome/laws/the-bradford-hill-criteria/
+615,the-hayflick-limit,The Hayflick Limit,biology,Empirical,1961,Leonard Hayflick,https://conyso.com/lawtome/laws/the-hayflick-limit/
+616,the-therapeutic-index,The Therapeutic Index,medicine,Empirical,,,https://conyso.com/lawtome/laws/the-therapeutic-index/
+617,number-needed-to-treat,Number Needed to Treat,statistics,Empirical,1988,,https://conyso.com/lawtome/laws/number-needed-to-treat/
+618,the-nocebo-effect,The Nocebo Effect,psychology,Empirical,1961,,https://conyso.com/lawtome/laws/the-nocebo-effect/
+619,the-inverse-care-law,The Inverse Care Law,sociology,Heuristic,1971,Julian Tudor Hart,https://conyso.com/lawtome/laws/the-inverse-care-law/
+620,the-prevention-paradox,The Prevention Paradox,sociology,Empirical,1981,Geoffrey Rose,https://conyso.com/lawtome/laws/the-prevention-paradox/
+621,the-hygiene-hypothesis,The Hygiene Hypothesis,medicine,Contested,1989,,https://conyso.com/lawtome/laws/the-hygiene-hypothesis/
+622,farrs-law,Farr's Law,medicine,Empirical,1840,William Farr,https://conyso.com/lawtome/laws/farrs-law/
+623,lead-time-bias,Lead-Time Bias,statistics,Empirical,,,https://conyso.com/lawtome/laws/lead-time-bias/
+624,the-french-paradox,The French Paradox,medicine,Contested,,,https://conyso.com/lawtome/laws/the-french-paradox/
+625,stare-decisis,Stare Decisis,law,Heuristic,,,https://conyso.com/lawtome/laws/stare-decisis/
+626,mens-rea,Mens Rea,law,Heuristic,,,https://conyso.com/lawtome/laws/mens-rea/
+627,res-ipsa-loquitur,Res Ipsa Loquitur,law,Heuristic,1863,,https://conyso.com/lawtome/laws/res-ipsa-loquitur/
+628,the-presumption-of-innocence,The Presumption of Innocence,law,Heuristic,,,https://conyso.com/lawtome/laws/the-presumption-of-innocence/
+629,habeas-corpus,Habeas Corpus,law,Heuristic,1679,,https://conyso.com/lawtome/laws/habeas-corpus/
+630,the-reasonable-person-standard,The Reasonable Person Standard,law,Heuristic,,,https://conyso.com/lawtome/laws/the-reasonable-person-standard/
+631,proximate-cause,Proximate Cause,law,Heuristic,1928,,https://conyso.com/lawtome/laws/proximate-cause/
+632,the-eggshell-skull-rule,The Eggshell Skull Rule,law,Heuristic,,,https://conyso.com/lawtome/laws/the-eggshell-skull-rule/
+633,double-jeopardy,Double Jeopardy,law,Heuristic,,,https://conyso.com/lawtome/laws/double-jeopardy/
+634,the-exclusionary-rule,The Exclusionary Rule,law,Heuristic,1914,,https://conyso.com/lawtome/laws/the-exclusionary-rule/
+635,the-fruit-of-the-poisonous-tree,The Fruit of the Poisonous Tree,law,Heuristic,1939,,https://conyso.com/lawtome/laws/the-fruit-of-the-poisonous-tree/
+636,caveat-emptor,Caveat Emptor,economics,Heuristic,,,https://conyso.com/lawtome/laws/caveat-emptor/
+637,force-majeure,Force Majeure,economics,Heuristic,1804,,https://conyso.com/lawtome/laws/force-majeure/
+638,jakobs-law,Jakob's Law,software,Heuristic,,Jakob Nielsen,https://conyso.com/lawtome/laws/jakobs-law/
+639,the-aesthetic-usability-effect,The Aesthetic-Usability Effect,psychology,Empirical,1995,,https://conyso.com/lawtome/laws/the-aesthetic-usability-effect/
+640,the-doherty-threshold,The Doherty Threshold,software,Empirical,1982,,https://conyso.com/lawtome/laws/the-doherty-threshold/
+641,the-goal-gradient-effect,The Goal-Gradient Effect,psychology,Empirical,1932,Clark Hull,https://conyso.com/lawtome/laws/the-goal-gradient-effect/
+642,the-paradox-of-choice,The Paradox of Choice,psychology,Contested,2004,,https://conyso.com/lawtome/laws/the-paradox-of-choice/
+643,the-uncanny-valley,The Uncanny Valley,psychology,Contested,1970,Masahiro Mori,https://conyso.com/lawtome/laws/the-uncanny-valley/
+644,the-cocktail-party-effect,The Cocktail Party Effect,psychology,Empirical,1953,,https://conyso.com/lawtome/laws/the-cocktail-party-effect/
+645,inattentional-blindness,Inattentional Blindness,psychology,Empirical,1998,,https://conyso.com/lawtome/laws/inattentional-blindness/
+646,change-blindness,Change Blindness,psychology,Empirical,1997,,https://conyso.com/lawtome/laws/change-blindness/
+647,the-picture-superiority-effect,The Picture Superiority Effect,psychology,Empirical,,,https://conyso.com/lawtome/laws/the-picture-superiority-effect/
+648,decision-fatigue,Decision Fatigue,psychology,Contested,,,https://conyso.com/lawtome/laws/decision-fatigue/
+649,the-google-effect,The Google Effect,psychology,Contested,2011,,https://conyso.com/lawtome/laws/the-google-effect/
+650,the-flow-state,Flow,psychology,Empirical,1975,Mihaly Csikszentmihalyi,https://conyso.com/lawtome/laws/the-flow-state/
+651,the-straw-man,The Straw Man,logic,Heuristic,,,https://conyso.com/lawtome/laws/the-straw-man/
+652,the-ad-hominem,The Ad Hominem,logic,Heuristic,,,https://conyso.com/lawtome/laws/the-ad-hominem/
+653,the-false-dilemma,The False Dilemma,logic,Heuristic,,,https://conyso.com/lawtome/laws/the-false-dilemma/
+654,begging-the-question,Begging the Question,logic,Heuristic,,,https://conyso.com/lawtome/laws/begging-the-question/
+655,the-slippery-slope,The Slippery Slope,logic,Heuristic,,,https://conyso.com/lawtome/laws/the-slippery-slope/
+656,the-appeal-to-authority,The Appeal to Authority,logic,Heuristic,1690,,https://conyso.com/lawtome/laws/the-appeal-to-authority/
+657,the-genetic-fallacy,The Genetic Fallacy,logic,Heuristic,1934,,https://conyso.com/lawtome/laws/the-genetic-fallacy/
+658,the-motte-and-bailey,The Motte-and-Bailey,logic,Heuristic,2005,Nicholas Shackel,https://conyso.com/lawtome/laws/the-motte-and-bailey/
+659,the-no-true-scotsman,The No True Scotsman,logic,Heuristic,1975,Antony Flew,https://conyso.com/lawtome/laws/the-no-true-scotsman/
+660,the-red-herring,The Red Herring,logic,Heuristic,1807,,https://conyso.com/lawtome/laws/the-red-herring/
+661,the-appeal-to-nature,The Appeal to Nature,logic,Heuristic,,,https://conyso.com/lawtome/laws/the-appeal-to-nature/
+662,the-texas-sharpshooter-fallacy,The Texas Sharpshooter Fallacy,statistics,Heuristic,,,https://conyso.com/lawtome/laws/the-texas-sharpshooter-fallacy/
+663,the-fallacy-fallacy,The Fallacy Fallacy,logic,Heuristic,,,https://conyso.com/lawtome/laws/the-fallacy-fallacy/
+664,schrodingers-cat,Schrödinger's Cat,physics,Heuristic,1935,Erwin Schrödinger,https://conyso.com/lawtome/laws/schrodingers-cat/
+665,the-brain-in-a-vat,The Brain in a Vat,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/the-brain-in-a-vat/
+667,the-experience-machine,The Experience Machine,philosophy,Heuristic,1974,Robert Nozick,https://conyso.com/lawtome/laws/the-experience-machine/
+668,the-beetle-in-a-box,The Beetle in a Box,philosophy,Heuristic,1953,,https://conyso.com/lawtome/laws/the-beetle-in-a-box/
+669,maxwells-demon,Maxwell's Demon,physics,Heuristic,1867,James Clerk Maxwell,https://conyso.com/lawtome/laws/maxwells-demon/
+670,twin-earth,Twin Earth,philosophy,Heuristic,1975,,https://conyso.com/lawtome/laws/twin-earth/
+671,the-utility-monster,The Utility Monster,philosophy,Heuristic,1974,Robert Nozick,https://conyso.com/lawtome/laws/the-utility-monster/
+672,the-philosophical-zombie,The Philosophical Zombie,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-philosophical-zombie/
+673,the-gettier-problem,The Gettier Problem,philosophy,Heuristic,1963,Edmund Gettier,https://conyso.com/lawtome/laws/the-gettier-problem/
+674,laplaces-demon,Laplace's Demon,philosophy,Heuristic,1814,Pierre-Simon Laplace,https://conyso.com/lawtome/laws/laplaces-demon/
+675,the-violinist-argument,The Violinist Argument,philosophy,Heuristic,1971,,https://conyso.com/lawtome/laws/the-violinist-argument/
+676,the-teletransportation-paradox,The Teletransportation Paradox,philosophy,Heuristic,1984,,https://conyso.com/lawtome/laws/the-teletransportation-paradox/
+677,the-drowning-child,The Drowning Child,philosophy,Heuristic,1972,,https://conyso.com/lawtome/laws/the-drowning-child/
+678,the-allegory-of-the-cave,The Allegory of the Cave,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/the-allegory-of-the-cave/
+679,the-ring-of-gyges,The Ring of Gyges,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/the-ring-of-gyges/
+680,pascals-wager,Pascal's Wager,philosophy,Heuristic,1670,Blaise Pascal,https://conyso.com/lawtome/laws/pascals-wager/
+681,buridans-ass,Buridan's Ass,philosophy,Heuristic,,Jean Buridan,https://conyso.com/lawtome/laws/buridans-ass/
+682,the-inverted-spectrum,The Inverted Spectrum,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-inverted-spectrum/
+683,molyneuxs-problem,Molyneux's Problem,philosophy,Heuristic,1688,William Molyneux,https://conyso.com/lawtome/laws/molyneuxs-problem/
+684,the-swampman,The Swampman,philosophy,Contested,1987,,https://conyso.com/lawtome/laws/the-swampman/
+685,the-lottery-paradox,The Lottery Paradox,philosophy,Heuristic,1961,,https://conyso.com/lawtome/laws/the-lottery-paradox/
+686,the-repugnant-conclusion,The Repugnant Conclusion,philosophy,Contested,1984,,https://conyso.com/lawtome/laws/the-repugnant-conclusion/
+687,the-china-brain,The China Brain,philosophy,Contested,1978,,https://conyso.com/lawtome/laws/the-china-brain/
+688,pascals-mugging,Pascal's Mugging,philosophy,Heuristic,2009,,https://conyso.com/lawtome/laws/pascals-mugging/
+689,the-last-man,The Last Man,philosophy,Heuristic,1973,,https://conyso.com/lawtome/laws/the-last-man/
+690,the-two-envelope-problem,The Two Envelopes Problem,statistics,Heuristic,,,https://conyso.com/lawtome/laws/the-two-envelope-problem/
+691,the-boy-or-girl-paradox,The Boy or Girl Paradox,statistics,Heuristic,1959,,https://conyso.com/lawtome/laws/the-boy-or-girl-paradox/
+692,the-sleeping-beauty-problem,The Sleeping Beauty Problem,philosophy,Contested,2000,,https://conyso.com/lawtome/laws/the-sleeping-beauty-problem/
+693,the-german-tank-problem,The German Tank Problem,statistics,Empirical,,,https://conyso.com/lawtome/laws/the-german-tank-problem/
+694,the-bertrand-paradox,The Bertrand Paradox,statistics,Heuristic,1889,Joseph Bertrand,https://conyso.com/lawtome/laws/the-bertrand-paradox/
+695,the-unexpected-hanging-paradox,The Unexpected Hanging Paradox,logic,Heuristic,,,https://conyso.com/lawtome/laws/the-unexpected-hanging-paradox/
+696,the-raven-paradox,The Raven Paradox,philosophy,Heuristic,,Carl Gustav Hempel,https://conyso.com/lawtome/laws/the-raven-paradox/
+697,the-grue-paradox,The Grue Paradox,philosophy,Heuristic,1955,,https://conyso.com/lawtome/laws/the-grue-paradox/
+698,the-berry-paradox,The Berry Paradox,mathematics,Heuristic,1908,G. G. Berry,https://conyso.com/lawtome/laws/the-berry-paradox/
+699,the-allais-paradox,The Allais Paradox,economics,Empirical,1953,Maurice Allais,https://conyso.com/lawtome/laws/the-allais-paradox/
+700,hilberts-hotel,Hilbert's Hotel,mathematics,Heuristic,,David Hilbert,https://conyso.com/lawtome/laws/hilberts-hotel/
+701,the-potato-paradox,The Potato Paradox,mathematics,Empirical,,,https://conyso.com/lawtome/laws/the-potato-paradox/
+702,the-coastline-paradox,The Coastline Paradox,mathematics,Empirical,1967,,https://conyso.com/lawtome/laws/the-coastline-paradox/
+703,the-reciprocity-norm,The Reciprocity Norm,psychology,Empirical,1960,,https://conyso.com/lawtome/laws/the-reciprocity-norm/
+704,the-scarcity-principle,The Scarcity Principle,psychology,Empirical,1984,,https://conyso.com/lawtome/laws/the-scarcity-principle/
+705,social-proof,Social Proof,psychology,Empirical,1984,,https://conyso.com/lawtome/laws/social-proof/
+706,the-ben-franklin-effect,The Ben Franklin Effect,psychology,Empirical,,Benjamin Franklin,https://conyso.com/lawtome/laws/the-ben-franklin-effect/
+707,the-foot-in-the-door-technique,The Foot-in-the-Door Technique,psychology,Empirical,1966,,https://conyso.com/lawtome/laws/the-foot-in-the-door-technique/
+708,the-door-in-the-face-technique,The Door-in-the-Face Technique,psychology,Empirical,1975,,https://conyso.com/lawtome/laws/the-door-in-the-face-technique/
+709,the-pratfall-effect,The Pratfall Effect,psychology,Empirical,1966,,https://conyso.com/lawtome/laws/the-pratfall-effect/
+710,the-illusion-of-transparency,The Illusion of Transparency,psychology,Empirical,1998,,https://conyso.com/lawtome/laws/the-illusion-of-transparency/
+711,the-false-consensus-effect,The False-Consensus Effect,psychology,Empirical,1977,,https://conyso.com/lawtome/laws/the-false-consensus-effect/
+712,diffusion-of-responsibility,Diffusion of Responsibility,sociology,Empirical,,,https://conyso.com/lawtome/laws/diffusion-of-responsibility/
+713,deindividuation,Deindividuation,sociology,Contested,1952,,https://conyso.com/lawtome/laws/deindividuation/
+714,groupthink,Groupthink,management,Contested,1952,,https://conyso.com/lawtome/laws/groupthink/
+715,the-overjustification-effect,The Overjustification Effect,psychology,Contested,1973,,https://conyso.com/lawtome/laws/the-overjustification-effect/
+716,giffen-good,The Giffen Good,economics,Empirical,,Robert Giffen,https://conyso.com/lawtome/laws/giffen-good/
+717,veblen-good,The Veblen Good,economics,Heuristic,1950,Thorstein Veblen,https://conyso.com/lawtome/laws/veblen-good/
+719,the-principal-agent-problem,The Principal-Agent Problem,economics,Empirical,1976,,https://conyso.com/lawtome/laws/the-principal-agent-problem/
+720,rent-seeking,Rent-Seeking,economics,Heuristic,1974,,https://conyso.com/lawtome/laws/rent-seeking/
+721,dutch-disease,Dutch Disease,economics,Empirical,1977,,https://conyso.com/lawtome/laws/dutch-disease/
+722,the-resource-curse,The Resource Curse,economics,Contested,1993,,https://conyso.com/lawtome/laws/the-resource-curse/
+723,the-cantillon-effect,The Cantillon Effect,economics,Heuristic,,Richard Cantillon,https://conyso.com/lawtome/laws/the-cantillon-effect/
+724,diminishing-marginal-utility,Diminishing Marginal Utility,economics,Heuristic,1854,,https://conyso.com/lawtome/laws/diminishing-marginal-utility/
+725,the-money-illusion,The Money Illusion,economics,Contested,1928,,https://conyso.com/lawtome/laws/the-money-illusion/
+726,the-fisher-effect,The Fisher Effect,economics,Empirical,,Irving Fisher,https://conyso.com/lawtome/laws/the-fisher-effect/
+727,the-paradox-of-thrift,The Paradox of Thrift,economics,Contested,1936,,https://conyso.com/lawtome/laws/the-paradox-of-thrift/
+728,the-liquidity-trap,The Liquidity Trap,economics,Contested,1936,,https://conyso.com/lawtome/laws/the-liquidity-trap/
+729,agenda-setting-theory,Agenda-Setting Theory,media,Empirical,1972,,https://conyso.com/lawtome/laws/agenda-setting-theory/
+730,cultivation-theory,Cultivation Theory,media,Contested,,,https://conyso.com/lawtome/laws/cultivation-theory/
+731,the-spiral-of-silence,The Spiral of Silence,media,Contested,1974,,https://conyso.com/lawtome/laws/the-spiral-of-silence/
+732,the-two-step-flow,The Two-Step Flow of Communication,media,Empirical,1955,,https://conyso.com/lawtome/laws/the-two-step-flow/
+733,the-hypodermic-needle-model,The Hypodermic Needle Model,media,Contested,,,https://conyso.com/lawtome/laws/the-hypodermic-needle-model/
+734,uses-and-gratifications-theory,Uses and Gratifications Theory,media,Heuristic,,,https://conyso.com/lawtome/laws/uses-and-gratifications-theory/
+735,the-knowledge-gap-hypothesis,The Knowledge Gap Hypothesis,media,Empirical,1970,,https://conyso.com/lawtome/laws/the-knowledge-gap-hypothesis/
+736,the-third-person-effect,The Third-Person Effect,media,Empirical,1983,,https://conyso.com/lawtome/laws/the-third-person-effect/
+737,the-hostile-media-effect,The Hostile Media Effect,media,Empirical,1985,,https://conyso.com/lawtome/laws/the-hostile-media-effect/
+738,the-elaboration-likelihood-model,The Elaboration Likelihood Model,psychology,Empirical,1986,,https://conyso.com/lawtome/laws/the-elaboration-likelihood-model/
+739,the-sleeper-effect,The Sleeper Effect,psychology,Contested,1949,,https://conyso.com/lawtome/laws/the-sleeper-effect/
+740,parasocial-interaction,Parasocial Interaction,media,Empirical,1956,,https://conyso.com/lawtome/laws/parasocial-interaction/
+741,the-filter-bubble,The Filter Bubble,media,Contested,2011,,https://conyso.com/lawtome/laws/the-filter-bubble/
+742,the-shepard-tone,The Shepard Tone,psychology,Empirical,1964,Roger Shepard,https://conyso.com/lawtome/laws/the-shepard-tone/
+743,the-tritone-paradox,The Tritone Paradox,psychology,Empirical,1986,Diana Deutsch,https://conyso.com/lawtome/laws/the-tritone-paradox/
+744,the-rubber-hand-illusion,The Rubber Hand Illusion,psychology,Empirical,1998,,https://conyso.com/lawtome/laws/the-rubber-hand-illusion/
+745,the-ventriloquist-effect,The Ventriloquist Effect,psychology,Empirical,,,https://conyso.com/lawtome/laws/the-ventriloquist-effect/
+746,the-phi-phenomenon,The Phi Phenomenon,psychology,Empirical,1912,,https://conyso.com/lawtome/laws/the-phi-phenomenon/
+747,the-cafe-wall-illusion,The Café Wall Illusion,psychology,Empirical,1979,,https://conyso.com/lawtome/laws/the-cafe-wall-illusion/
+748,troxler-fading,Troxler's Fading,psychology,Empirical,1804,Ignaz Troxler,https://conyso.com/lawtome/laws/troxler-fading/
+749,the-mccollough-effect,The McCollough Effect,psychology,Empirical,1965,Celeste McCollough,https://conyso.com/lawtome/laws/the-mccollough-effect/
+750,the-ponzo-illusion,The Ponzo Illusion,psychology,Empirical,1911,Mario Ponzo,https://conyso.com/lawtome/laws/the-ponzo-illusion/
+751,the-kanizsa-triangle,The Kanizsa Triangle,psychology,Empirical,1955,Gaetano Kanizsa,https://conyso.com/lawtome/laws/the-kanizsa-triangle/
+752,the-motion-aftereffect,The Motion Aftereffect,psychology,Empirical,1834,,https://conyso.com/lawtome/laws/the-motion-aftereffect/
+753,the-stroop-effect,The Stroop Effect,psychology,Empirical,1935,John Ridley Stroop,https://conyso.com/lawtome/laws/the-stroop-effect/
+754,the-mueller-lyer-illusion,The Müller-Lyer Illusion,psychology,Contested,1889,Franz Carl Müller-Lyer,https://conyso.com/lawtome/laws/the-mueller-lyer-illusion/
+755,ethos-pathos-logos,"Ethos, Pathos, Logos",philosophy,Heuristic,,,https://conyso.com/lawtome/laws/ethos-pathos-logos/
+756,kairos,Kairos,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/kairos/
+757,the-toulmin-model,The Toulmin Model,logic,Heuristic,1958,Stephen Toulmin,https://conyso.com/lawtome/laws/the-toulmin-model/
+758,the-socratic-method,The Socratic Method,logic,Heuristic,,Socrates,https://conyso.com/lawtome/laws/the-socratic-method/
+759,the-principle-of-charity,The Principle of Charity,logic,Heuristic,1959,,https://conyso.com/lawtome/laws/the-principle-of-charity/
+760,reductio-ad-absurdum,Reductio ad Absurdum,logic,Empirical,,,https://conyso.com/lawtome/laws/reductio-ad-absurdum/
+761,the-burden-of-proof,The Burden of Proof,logic,Heuristic,,,https://conyso.com/lawtome/laws/the-burden-of-proof/
+762,the-golden-mean,The Golden Mean,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/the-golden-mean/
+763,the-principle-of-sufficient-reason,The Principle of Sufficient Reason,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-principle-of-sufficient-reason/
+764,the-law-of-noncontradiction,The Law of Noncontradiction,logic,Heuristic,,,https://conyso.com/lawtome/laws/the-law-of-noncontradiction/
+765,the-principle-of-explosion,The Principle of Explosion,logic,Empirical,,,https://conyso.com/lawtome/laws/the-principle-of-explosion/
+766,the-steel-man,The Steel Man,logic,Heuristic,2011,,https://conyso.com/lawtome/laws/the-steel-man/
+767,the-rule-of-three,The Rule of Three,media,Heuristic,,,https://conyso.com/lawtome/laws/the-rule-of-three/
+768,the-circle-of-fifths,The Circle of Fifths,media,Empirical,,,https://conyso.com/lawtome/laws/the-circle-of-fifths/
+769,equal-temperament,Equal Temperament,media,Empirical,,,https://conyso.com/lawtome/laws/equal-temperament/
+770,the-harmonic-series,The Harmonic Series,physics,Empirical,,,https://conyso.com/lawtome/laws/the-harmonic-series/
+771,consonance-and-dissonance,Consonance and Dissonance,media,Contested,,,https://conyso.com/lawtome/laws/consonance-and-dissonance/
+772,just-intonation,Just Intonation,media,Empirical,,,https://conyso.com/lawtome/laws/just-intonation/
+773,the-pythagorean-comma,The Pythagorean Comma,physics,Empirical,,,https://conyso.com/lawtome/laws/the-pythagorean-comma/
+774,the-missing-fundamental,The Missing Fundamental,psychology,Empirical,,,https://conyso.com/lawtome/laws/the-missing-fundamental/
+775,helmholtz-resonance,Helmholtz Resonance,physics,Empirical,,Hermann von Helmholtz,https://conyso.com/lawtome/laws/helmholtz-resonance/
+776,the-precedence-effect,The Precedence Effect,psychology,Empirical,1949,,https://conyso.com/lawtome/laws/the-precedence-effect/
+777,beats,Beats,physics,Empirical,,,https://conyso.com/lawtome/laws/beats/
+778,the-critical-band,The Critical Band,psychology,Empirical,,,https://conyso.com/lawtome/laws/the-critical-band/
+779,the-rule-of-thirds,The Rule of Thirds,media,Heuristic,1797,,https://conyso.com/lawtome/laws/the-rule-of-thirds/
+780,form-follows-function,Form Follows Function,technology,Heuristic,1896,Louis Sullivan,https://conyso.com/lawtome/laws/form-follows-function/
+781,the-coanda-effect,The Coandă Effect,physics,Empirical,,Henri Coandă,https://conyso.com/lawtome/laws/the-coanda-effect/
+782,the-venturi-effect,The Venturi Effect,physics,Empirical,1797,Giovanni Battista Venturi,https://conyso.com/lawtome/laws/the-venturi-effect/
+783,the-karman-vortex-street,The Kármán Vortex Street,physics,Empirical,,Theodore von Kármán,https://conyso.com/lawtome/laws/the-karman-vortex-street/
+784,the-rayleigh-taylor-instability,The Rayleigh-Taylor Instability,physics,Empirical,,Lord Rayleigh and G. I. Taylor,https://conyso.com/lawtome/laws/the-rayleigh-taylor-instability/
+785,the-kelvin-helmholtz-instability,The Kelvin-Helmholtz Instability,physics,Empirical,,Lord Kelvin and Hermann von Helmholtz,https://conyso.com/lawtome/laws/the-kelvin-helmholtz-instability/
+786,cavitation,Cavitation,physics,Empirical,,,https://conyso.com/lawtome/laws/cavitation/
+787,the-marangoni-effect,The Marangoni Effect,physics,Empirical,1865,Carlo Marangoni,https://conyso.com/lawtome/laws/the-marangoni-effect/
+788,the-leidenfrost-effect,The Leidenfrost Effect,physics,Empirical,1756,Johann Gottlob Leidenfrost,https://conyso.com/lawtome/laws/the-leidenfrost-effect/
+789,the-tyndall-effect,The Tyndall Effect,physics,Empirical,,John Tyndall,https://conyso.com/lawtome/laws/the-tyndall-effect/
+790,surface-tension,Surface Tension,physics,Empirical,,,https://conyso.com/lawtome/laws/surface-tension/
+791,terminal-velocity,Terminal Velocity,physics,Empirical,,,https://conyso.com/lawtome/laws/terminal-velocity/
+792,capillary-action,Capillary Action,physics,Empirical,,,https://conyso.com/lawtome/laws/capillary-action/
+793,the-brazil-nut-effect,The Brazil Nut Effect,physics,Contested,,,https://conyso.com/lawtome/laws/the-brazil-nut-effect/
+794,lagrange-points,Lagrange Points,astronomy,Empirical,,Joseph-Louis Lagrange,https://conyso.com/lawtome/laws/lagrange-points/
+795,the-hohmann-transfer-orbit,The Hohmann Transfer Orbit,astronomy,Empirical,1925,Walter Hohmann,https://conyso.com/lawtome/laws/the-hohmann-transfer-orbit/
+796,tidal-locking,Tidal Locking,astronomy,Empirical,,,https://conyso.com/lawtome/laws/tidal-locking/
+797,the-oberth-effect,The Oberth Effect,astronomy,Empirical,1927,Hermann Oberth,https://conyso.com/lawtome/laws/the-oberth-effect/
+798,the-hill-sphere,The Hill Sphere,astronomy,Empirical,,George William Hill,https://conyso.com/lawtome/laws/the-hill-sphere/
+799,gravity-assist,Gravity Assist,astronomy,Empirical,,,https://conyso.com/lawtome/laws/gravity-assist/
+800,the-roche-lobe,The Roche Lobe,astronomy,Empirical,,Édouard Roche,https://conyso.com/lawtome/laws/the-roche-lobe/
+801,orbital-resonance,Orbital Resonance,astronomy,Empirical,,,https://conyso.com/lawtome/laws/orbital-resonance/
+802,the-oort-cloud,The Oort Cloud,astronomy,Contested,1950,Jan Oort,https://conyso.com/lawtome/laws/the-oort-cloud/
+803,the-karman-line,The Kármán Line,astronomy,Heuristic,,Theodore von Kármán,https://conyso.com/lawtome/laws/the-karman-line/
+804,escape-velocity,Escape Velocity,physics,Empirical,,,https://conyso.com/lawtome/laws/escape-velocity/
+805,the-goldilocks-zone,The Goldilocks Zone,astronomy,Heuristic,,,https://conyso.com/lawtome/laws/the-goldilocks-zone/
+806,retrograde-motion,Retrograde Motion,astronomy,Empirical,,,https://conyso.com/lawtome/laws/retrograde-motion/
+807,the-maillard-reaction,The Maillard Reaction,chemistry,Empirical,1912,Louis-Camille Maillard,https://conyso.com/lawtome/laws/the-maillard-reaction/
+808,caramelization,Caramelization,chemistry,Empirical,,,https://conyso.com/lawtome/laws/caramelization/
+809,gelatinization,Gelatinization,chemistry,Empirical,,,https://conyso.com/lawtome/laws/gelatinization/
+810,emulsion,Emulsion,chemistry,Empirical,,,https://conyso.com/lawtome/laws/emulsion/
+811,protein-denaturation,Protein Denaturation,biology,Empirical,,,https://conyso.com/lawtome/laws/protein-denaturation/
+812,fermentation,Fermentation,biology,Empirical,,,https://conyso.com/lawtome/laws/fermentation/
+813,the-gluten-network,The Gluten Network,chemistry,Empirical,,,https://conyso.com/lawtome/laws/the-gluten-network/
+814,the-scoville-scale,The Scoville Scale,chemistry,Empirical,1912,Wilbur Scoville,https://conyso.com/lawtome/laws/the-scoville-scale/
+815,umami,Umami,biology,Empirical,1908,,https://conyso.com/lawtome/laws/umami/
+816,pasteurization,Pasteurization,biology,Empirical,,Louis Pasteur,https://conyso.com/lawtome/laws/pasteurization/
+817,enzymatic-browning,Enzymatic Browning,chemistry,Empirical,,,https://conyso.com/lawtome/laws/enzymatic-browning/
+818,the-smoke-point,The Smoke Point,chemistry,Empirical,,,https://conyso.com/lawtome/laws/the-smoke-point/
+819,curing,Curing,chemistry,Empirical,,,https://conyso.com/lawtome/laws/curing/
+820,additive-color,Additive Color,physics,Empirical,,,https://conyso.com/lawtome/laws/additive-color/
+821,subtractive-color,Subtractive Color,physics,Empirical,,,https://conyso.com/lawtome/laws/subtractive-color/
+822,complementary-colors,Complementary Colors,physics,Empirical,,,https://conyso.com/lawtome/laws/complementary-colors/
+823,color-constancy,Color Constancy,psychology,Empirical,,,https://conyso.com/lawtome/laws/color-constancy/
+824,the-afterimage,The Afterimage,psychology,Empirical,,,https://conyso.com/lawtome/laws/the-afterimage/
+825,simultaneous-contrast,Simultaneous Contrast,psychology,Empirical,1839,Michel-Eugène Chevreul,https://conyso.com/lawtome/laws/simultaneous-contrast/
+826,the-purkinje-effect,The Purkinje Effect,psychology,Empirical,1819,Jan Evangelista Purkyně,https://conyso.com/lawtome/laws/the-purkinje-effect/
+827,trichromacy,Trichromacy,psychology,Empirical,,,https://conyso.com/lawtome/laws/trichromacy/
+828,the-opponent-process-theory,The Opponent-Process Theory,psychology,Empirical,,Ewald Hering,https://conyso.com/lawtome/laws/the-opponent-process-theory/
+829,metamerism,Metamerism,physics,Empirical,,,https://conyso.com/lawtome/laws/metamerism/
+830,color-temperature,Color Temperature,physics,Empirical,,,https://conyso.com/lawtome/laws/color-temperature/
+831,color-blindness,Color Blindness,medicine,Empirical,,,https://conyso.com/lawtome/laws/color-blindness/
+832,the-benham-top,Benham's Top,psychology,Contested,,Charles Benham,https://conyso.com/lawtome/laws/the-benham-top/
+833,the-milgram-experiment,The Milgram Experiment,psychology,Contested,1961,Stanley Milgram,https://conyso.com/lawtome/laws/the-milgram-experiment/
+834,the-stanford-prison-experiment,The Stanford Prison Experiment,psychology,Contested,1971,,https://conyso.com/lawtome/laws/the-stanford-prison-experiment/
+835,the-little-albert-experiment,The Little Albert Experiment,psychology,Contested,1920,,https://conyso.com/lawtome/laws/the-little-albert-experiment/
+836,classical-conditioning,Classical Conditioning,psychology,Empirical,,,https://conyso.com/lawtome/laws/classical-conditioning/
+837,operant-conditioning,Operant Conditioning,psychology,Empirical,,,https://conyso.com/lawtome/laws/operant-conditioning/
+838,the-bobo-doll-experiment,The Bobo Doll Experiment,psychology,Empirical,1961,,https://conyso.com/lawtome/laws/the-bobo-doll-experiment/
+839,the-marshmallow-test,The Marshmallow Test,psychology,Contested,,,https://conyso.com/lawtome/laws/the-marshmallow-test/
+840,the-asch-conformity-experiments,The Asch Conformity Experiments,psychology,Empirical,1951,Solomon Asch,https://conyso.com/lawtome/laws/the-asch-conformity-experiments/
+841,the-harlow-experiments,The Harlow Experiments,psychology,Empirical,,Harry Harlow,https://conyso.com/lawtome/laws/the-harlow-experiments/
+842,the-robbers-cave-experiment,The Robbers Cave Experiment,psychology,Contested,1954,,https://conyso.com/lawtome/laws/the-robbers-cave-experiment/
+843,the-rosenhan-experiment,The Rosenhan Experiment,psychology,Contested,1973,David Rosenhan,https://conyso.com/lawtome/laws/the-rosenhan-experiment/
+844,the-skinner-box,The Skinner Box,psychology,Empirical,,B. F. Skinner,https://conyso.com/lawtome/laws/the-skinner-box/
+845,learned-helplessness,Learned Helplessness,psychology,Empirical,1967,,https://conyso.com/lawtome/laws/learned-helplessness/
+846,the-double-slit-experiment,The Double-Slit Experiment,physics,Empirical,,,https://conyso.com/lawtome/laws/the-double-slit-experiment/
+847,the-michelson-morley-experiment,The Michelson-Morley Experiment,physics,Empirical,1887,,https://conyso.com/lawtome/laws/the-michelson-morley-experiment/
+848,the-millikan-oil-drop-experiment,The Millikan Oil-Drop Experiment,physics,Empirical,1913,Robert A. Millikan,https://conyso.com/lawtome/laws/the-millikan-oil-drop-experiment/
+849,the-rutherford-gold-foil-experiment,The Rutherford Gold Foil Experiment,physics,Empirical,1911,Ernest Rutherford,https://conyso.com/lawtome/laws/the-rutherford-gold-foil-experiment/
+850,the-cavendish-experiment,The Cavendish Experiment,physics,Empirical,1798,Henry Cavendish,https://conyso.com/lawtome/laws/the-cavendish-experiment/
+851,the-foucault-pendulum,The Foucault Pendulum,physics,Empirical,1851,Léon Foucault,https://conyso.com/lawtome/laws/the-foucault-pendulum/
+852,the-stern-gerlach-experiment,The Stern-Gerlach Experiment,physics,Empirical,1922,Otto Stern and Walther Gerlach,https://conyso.com/lawtome/laws/the-stern-gerlach-experiment/
+853,eratosthenes-measurement-of-the-earth,Eratosthenes' Measurement of the Earth,astronomy,Empirical,,Eratosthenes,https://conyso.com/lawtome/laws/eratosthenes-measurement-of-the-earth/
+854,the-franck-hertz-experiment,The Franck-Hertz Experiment,physics,Empirical,1914,James Franck and Gustav Hertz,https://conyso.com/lawtome/laws/the-franck-hertz-experiment/
+855,the-eddington-eclipse-experiment,The Eddington Eclipse Experiment,astronomy,Empirical,1919,Arthur Eddington,https://conyso.com/lawtome/laws/the-eddington-eclipse-experiment/
+856,galileos-inclined-plane,Galileo's Inclined Plane,physics,Empirical,1638,Galileo Galilei,https://conyso.com/lawtome/laws/galileos-inclined-plane/
+857,the-cathode-ray-experiment,Thomson's Cathode Ray Experiment,physics,Empirical,1897,J. J. Thomson,https://conyso.com/lawtome/laws/the-cathode-ray-experiment/
+858,the-davisson-germer-experiment,The Davisson-Germer Experiment,physics,Empirical,1927,Clinton Davisson and Lester Germer,https://conyso.com/lawtome/laws/the-davisson-germer-experiment/
+859,mendels-pea-experiments,Mendel's Pea Experiments,biology,Empirical,,Gregor Mendel,https://conyso.com/lawtome/laws/mendels-pea-experiments/
+860,the-miller-urey-experiment,The Miller-Urey Experiment,biology,Empirical,1953,Stanley Miller and Harold Urey,https://conyso.com/lawtome/laws/the-miller-urey-experiment/
+861,the-hershey-chase-experiment,The Hershey-Chase Experiment,biology,Empirical,1952,Alfred Hershey and Martha Chase,https://conyso.com/lawtome/laws/the-hershey-chase-experiment/
+862,the-meselson-stahl-experiment,The Meselson-Stahl Experiment,biology,Empirical,1958,Matthew Meselson and Franklin Stahl,https://conyso.com/lawtome/laws/the-meselson-stahl-experiment/
+863,the-griffith-experiment,Griffith's Experiment,biology,Empirical,1928,Frederick Griffith,https://conyso.com/lawtome/laws/the-griffith-experiment/
+864,the-avery-macleod-mccarty-experiment,The Avery-MacLeod-McCarty Experiment,biology,Empirical,1944,"Oswald Avery, Colin MacLeod, and Maclyn McCarty",https://conyso.com/lawtome/laws/the-avery-macleod-mccarty-experiment/
+865,redis-experiment,Redi's Experiment,biology,Empirical,1668,Francesco Redi,https://conyso.com/lawtome/laws/redis-experiment/
+866,pasteurs-swan-neck-flask-experiment,Pasteur's Swan-Neck Flask Experiment,biology,Empirical,,Louis Pasteur,https://conyso.com/lawtome/laws/pasteurs-swan-neck-flask-experiment/
+867,wohlers-urea-synthesis,Wöhler's Urea Synthesis,chemistry,Empirical,1828,Friedrich Wöhler,https://conyso.com/lawtome/laws/wohlers-urea-synthesis/
+868,lavoisier-and-combustion,Lavoisier and Combustion,chemistry,Empirical,,Antoine Lavoisier,https://conyso.com/lawtome/laws/lavoisier-and-combustion/
+869,photo-51,Photo 51,biology,Empirical,1952,,https://conyso.com/lawtome/laws/photo-51/
+870,the-luria-delbruck-experiment,The Luria-Delbrück Experiment,biology,Empirical,1943,Salvador Luria and Max Delbrück,https://conyso.com/lawtome/laws/the-luria-delbruck-experiment/
+871,mendeleev-periodic-table,Mendeleev's Periodic Table,chemistry,Empirical,1869,Dmitri Mendeleev,https://conyso.com/lawtome/laws/mendeleev-periodic-table/
+872,piagets-stages-of-cognitive-development,Piaget's Stages of Cognitive Development,psychology,Contested,,Jean Piaget,https://conyso.com/lawtome/laws/piagets-stages-of-cognitive-development/
+873,the-zone-of-proximal-development,The Zone of Proximal Development,psychology,Heuristic,,Lev Vygotsky,https://conyso.com/lawtome/laws/the-zone-of-proximal-development/
+874,eriksons-stages-of-psychosocial-development,Erikson's Stages of Psychosocial Development,psychology,Heuristic,1950,Erik Erikson,https://conyso.com/lawtome/laws/eriksons-stages-of-psychosocial-development/
+875,kohlbergs-stages-of-moral-development,Kohlberg's Stages of Moral Development,psychology,Contested,,Lawrence Kohlberg,https://conyso.com/lawtome/laws/kohlbergs-stages-of-moral-development/
+876,blooms-taxonomy,Bloom's Taxonomy,psychology,Heuristic,1956,Benjamin Bloom,https://conyso.com/lawtome/laws/blooms-taxonomy/
+877,attachment-theory,Attachment Theory,psychology,Empirical,,John Bowlby,https://conyso.com/lawtome/laws/attachment-theory/
+878,the-theory-of-mind,Theory of Mind,psychology,Empirical,1978,,https://conyso.com/lawtome/laws/the-theory-of-mind/
+879,gardners-multiple-intelligences,Gardner's Multiple Intelligences,psychology,Contested,1983,Howard Gardner,https://conyso.com/lawtome/laws/gardners-multiple-intelligences/
+880,the-strange-situation,The Strange Situation,psychology,Empirical,,Mary Ainsworth,https://conyso.com/lawtome/laws/the-strange-situation/
+881,maslows-hierarchy-of-needs,Maslow's Hierarchy of Needs,psychology,Contested,1943,Abraham Maslow,https://conyso.com/lawtome/laws/maslows-hierarchy-of-needs/
+882,the-big-five-personality-traits,The Big Five Personality Traits,psychology,Empirical,,,https://conyso.com/lawtome/laws/the-big-five-personality-traits/
+883,cognitive-load-theory,Cognitive Load Theory,psychology,Empirical,,John Sweller,https://conyso.com/lawtome/laws/cognitive-load-theory/
+884,self-determination-theory,Self-Determination Theory,psychology,Empirical,,Edward Deci and Richard Ryan,https://conyso.com/lawtome/laws/self-determination-theory/
+885,the-social-contract,The Social Contract,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-social-contract/
+886,the-categorical-imperative,The Categorical Imperative,philosophy,Contested,1785,Immanuel Kant,https://conyso.com/lawtome/laws/the-categorical-imperative/
+887,the-harm-principle,The Harm Principle,philosophy,Heuristic,1859,John Stuart Mill,https://conyso.com/lawtome/laws/the-harm-principle/
+888,the-general-will,The General Will,philosophy,Contested,1762,Jean-Jacques Rousseau,https://conyso.com/lawtome/laws/the-general-will/
+889,natural-rights,Natural Rights,philosophy,Contested,,,https://conyso.com/lawtome/laws/natural-rights/
+890,the-separation-of-powers,The Separation of Powers,philosophy,Heuristic,1748,Montesquieu,https://conyso.com/lawtome/laws/the-separation-of-powers/
+891,the-state-of-nature,The State of Nature,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/the-state-of-nature/
+892,the-difference-principle,The Difference Principle,philosophy,Contested,1971,John Rawls,https://conyso.com/lawtome/laws/the-difference-principle/
+893,negative-and-positive-liberty,Negative and Positive Liberty,philosophy,Heuristic,1958,Isaiah Berlin,https://conyso.com/lawtome/laws/negative-and-positive-liberty/
+894,the-noble-lie,The Noble Lie,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-noble-lie/
+895,the-invisible-hand,The Invisible Hand,economics,Contested,1776,Adam Smith,https://conyso.com/lawtome/laws/the-invisible-hand/
+896,the-original-position,The Original Position,philosophy,Contested,1971,John Rawls,https://conyso.com/lawtome/laws/the-original-position/
+897,the-marketplace-of-ideas,The Marketplace of Ideas,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-marketplace-of-ideas/
+898,anomie,Anomie,sociology,Empirical,,,https://conyso.com/lawtome/laws/anomie/
+899,the-looking-glass-self,The Looking-Glass Self,sociology,Empirical,1902,Charles Horton Cooley,https://conyso.com/lawtome/laws/the-looking-glass-self/
+900,social-capital,Social Capital,sociology,Contested,,,https://conyso.com/lawtome/laws/social-capital/
+901,the-protestant-ethic,The Protestant Ethic,sociology,Contested,1905,Max Weber,https://conyso.com/lawtome/laws/the-protestant-ethic/
+902,conspicuous-consumption,Conspicuous Consumption,sociology,Empirical,1899,Thorstein Veblen,https://conyso.com/lawtome/laws/conspicuous-consumption/
+903,cultural-hegemony,Cultural Hegemony,sociology,Contested,,Antonio Gramsci,https://conyso.com/lawtome/laws/cultural-hegemony/
+904,the-iron-cage,The Iron Cage,sociology,Heuristic,,Max Weber,https://conyso.com/lawtome/laws/the-iron-cage/
+905,the-division-of-labor,The Division of Labor,sociology,Empirical,1893,Émile Durkheim,https://conyso.com/lawtome/laws/the-division-of-labor/
+906,moral-panic,Moral Panic,sociology,Empirical,1972,,https://conyso.com/lawtome/laws/moral-panic/
+907,the-presentation-of-self,The Presentation of Self,sociology,Empirical,,Erving Goffman,https://conyso.com/lawtome/laws/the-presentation-of-self/
+908,collective-effervescence,Collective Effervescence,sociology,Empirical,1912,Émile Durkheim,https://conyso.com/lawtome/laws/collective-effervescence/
+909,social-facts,Social Facts,sociology,Empirical,1895,Émile Durkheim,https://conyso.com/lawtome/laws/social-facts/
+910,verstehen,Verstehen,sociology,Heuristic,,,https://conyso.com/lawtome/laws/verstehen/
+911,the-mind-body-problem,The Mind-Body Problem,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-mind-body-problem/
+912,dualism,Dualism,philosophy,Contested,,,https://conyso.com/lawtome/laws/dualism/
+913,the-hard-problem-of-consciousness,The Hard Problem of Consciousness,philosophy,Contested,1995,David Chalmers,https://conyso.com/lawtome/laws/the-hard-problem-of-consciousness/
+914,qualia,Qualia,philosophy,Contested,1929,,https://conyso.com/lawtome/laws/qualia/
+915,physicalism,Physicalism,philosophy,Contested,,,https://conyso.com/lawtome/laws/physicalism/
+916,functionalism,Functionalism,philosophy,Contested,,,https://conyso.com/lawtome/laws/functionalism/
+917,intentionality,Intentionality,philosophy,Contested,,,https://conyso.com/lawtome/laws/intentionality/
+918,the-explanatory-gap,The Explanatory Gap,philosophy,Contested,1983,Joseph Levine,https://conyso.com/lawtome/laws/the-explanatory-gap/
+919,panpsychism,Panpsychism,philosophy,Contested,,,https://conyso.com/lawtome/laws/panpsychism/
+920,eliminative-materialism,Eliminative Materialism,philosophy,Contested,,,https://conyso.com/lawtome/laws/eliminative-materialism/
+921,the-turing-test,The Turing Test,philosophy,Contested,1950,Alan Turing,https://conyso.com/lawtome/laws/the-turing-test/
+922,the-knowledge-argument,The Knowledge Argument,philosophy,Contested,1982,Frank Jackson,https://conyso.com/lawtome/laws/the-knowledge-argument/
+923,emergence,Emergence,philosophy,Contested,,,https://conyso.com/lawtome/laws/emergence/
+924,consequentialism,Consequentialism,philosophy,Contested,,,https://conyso.com/lawtome/laws/consequentialism/
+925,deontology,Deontology,philosophy,Contested,,,https://conyso.com/lawtome/laws/deontology/
+926,virtue-ethics,Virtue Ethics,philosophy,Contested,,,https://conyso.com/lawtome/laws/virtue-ethics/
+927,utilitarianism,Utilitarianism,philosophy,Contested,,,https://conyso.com/lawtome/laws/utilitarianism/
+928,the-doctrine-of-double-effect,The Doctrine of Double Effect,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-doctrine-of-double-effect/
+929,moral-realism,Moral Realism,philosophy,Contested,,,https://conyso.com/lawtome/laws/moral-realism/
+930,the-is-ought-problem,The Is-Ought Problem,philosophy,Contested,1740,David Hume,https://conyso.com/lawtome/laws/the-is-ought-problem/
+931,the-naturalistic-fallacy,The Naturalistic Fallacy,logic,Contested,1903,G. E. Moore,https://conyso.com/lawtome/laws/the-naturalistic-fallacy/
+932,moral-relativism,Moral Relativism,philosophy,Contested,,,https://conyso.com/lawtome/laws/moral-relativism/
+933,moral-luck,Moral Luck,philosophy,Contested,1976,,https://conyso.com/lawtome/laws/moral-luck/
+934,the-golden-rule,The Golden Rule,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/the-golden-rule/
+935,contractualism,Contractualism,philosophy,Contested,,T. M. Scanlon,https://conyso.com/lawtome/laws/contractualism/
+936,ethical-egoism,Ethical Egoism,philosophy,Contested,,,https://conyso.com/lawtome/laws/ethical-egoism/
+937,justified-true-belief,Justified True Belief,philosophy,Contested,,,https://conyso.com/lawtome/laws/justified-true-belief/
+938,foundationalism,Foundationalism,philosophy,Contested,,,https://conyso.com/lawtome/laws/foundationalism/
+939,coherentism,Coherentism,philosophy,Contested,,,https://conyso.com/lawtome/laws/coherentism/
+940,philosophical-skepticism,Philosophical Skepticism,philosophy,Contested,,,https://conyso.com/lawtome/laws/philosophical-skepticism/
+941,rationalism,Rationalism,philosophy,Contested,,,https://conyso.com/lawtome/laws/rationalism/
+942,empiricism,Empiricism,philosophy,Contested,,,https://conyso.com/lawtome/laws/empiricism/
+943,the-analytic-synthetic-distinction,The Analytic-Synthetic Distinction,philosophy,Contested,1781,,https://conyso.com/lawtome/laws/the-analytic-synthetic-distinction/
+944,reliabilism,Reliabilism,philosophy,Contested,1979,,https://conyso.com/lawtome/laws/reliabilism/
+945,fallibilism,Fallibilism,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/fallibilism/
+946,the-a-priori,The A Priori,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-a-priori/
+947,the-problem-of-the-criterion,The Problem of the Criterion,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-problem-of-the-criterion/
+948,virtue-epistemology,Virtue Epistemology,philosophy,Contested,,,https://conyso.com/lawtome/laws/virtue-epistemology/
+949,the-problem-of-other-minds,The Problem of Other Minds,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-problem-of-other-minds/
+950,falsifiability,Falsifiability,philosophy,Contested,1934,Karl Popper,https://conyso.com/lawtome/laws/falsifiability/
+951,the-demarcation-problem,The Demarcation Problem,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-demarcation-problem/
+952,paradigm-shift,Paradigm Shift,philosophy,Contested,1962,,https://conyso.com/lawtome/laws/paradigm-shift/
+953,the-duhem-quine-thesis,The Duhem-Quine Thesis,philosophy,Empirical,,,https://conyso.com/lawtome/laws/the-duhem-quine-thesis/
+954,underdetermination,Underdetermination,philosophy,Contested,,,https://conyso.com/lawtome/laws/underdetermination/
+955,incommensurability,Incommensurability,philosophy,Contested,1962,,https://conyso.com/lawtome/laws/incommensurability/
+956,research-programmes,Research Programmes,philosophy,Contested,,Imre Lakatos,https://conyso.com/lawtome/laws/research-programmes/
+957,the-pessimistic-induction,The Pessimistic Induction,philosophy,Contested,1981,,https://conyso.com/lawtome/laws/the-pessimistic-induction/
+958,scientific-realism,Scientific Realism,philosophy,Contested,,,https://conyso.com/lawtome/laws/scientific-realism/
+959,instrumentalism,Instrumentalism,philosophy,Contested,,,https://conyso.com/lawtome/laws/instrumentalism/
+960,inference-to-the-best-explanation,Inference to the Best Explanation,philosophy,Heuristic,1965,,https://conyso.com/lawtome/laws/inference-to-the-best-explanation/
+961,the-no-miracles-argument,The No-Miracles Argument,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-no-miracles-argument/
+962,the-theory-ladenness-of-observation,The Theory-Ladenness of Observation,philosophy,Contested,1958,,https://conyso.com/lawtome/laws/the-theory-ladenness-of-observation/
+963,sense-and-reference,Sense and Reference,philosophy,Heuristic,1892,Gottlob Frege,https://conyso.com/lawtome/laws/sense-and-reference/
+964,the-theory-of-descriptions,The Theory of Descriptions,philosophy,Heuristic,1905,Bertrand Russell,https://conyso.com/lawtome/laws/the-theory-of-descriptions/
+965,speech-act-theory,Speech Act Theory,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/speech-act-theory/
+966,conversational-implicature,Conversational Implicature,philosophy,Heuristic,,H. P. Grice,https://conyso.com/lawtome/laws/conversational-implicature/
+967,the-causal-theory-of-reference,The Causal Theory of Reference,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/the-causal-theory-of-reference/
+968,the-private-language-argument,The Private Language Argument,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-private-language-argument/
+969,rigid-designation,Rigid Designation,philosophy,Heuristic,,Saul Kripke,https://conyso.com/lawtome/laws/rigid-designation/
+970,the-use-theory-of-meaning,The Use Theory of Meaning,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/the-use-theory-of-meaning/
+971,the-picture-theory-of-language,The Picture Theory of Language,philosophy,Contested,1921,,https://conyso.com/lawtome/laws/the-picture-theory-of-language/
+972,semantic-externalism,Semantic Externalism,philosophy,Contested,,,https://conyso.com/lawtome/laws/semantic-externalism/
+973,verificationism,Verificationism,philosophy,Contested,,,https://conyso.com/lawtome/laws/verificationism/
+974,performative-utterances,Performative Utterances,philosophy,Heuristic,,J. L. Austin,https://conyso.com/lawtome/laws/performative-utterances/
+975,compositionality,Compositionality,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/compositionality/
+976,personal-identity,Personal Identity,philosophy,Contested,,,https://conyso.com/lawtome/laws/personal-identity/
+977,free-will,Free Will,philosophy,Contested,,,https://conyso.com/lawtome/laws/free-will/
+978,determinism,Determinism,philosophy,Contested,,,https://conyso.com/lawtome/laws/determinism/
+979,compatibilism,Compatibilism,philosophy,Contested,,,https://conyso.com/lawtome/laws/compatibilism/
+980,the-consequence-argument,The Consequence Argument,philosophy,Contested,1983,,https://conyso.com/lawtome/laws/the-consequence-argument/
+981,the-problem-of-universals,The Problem of Universals,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-problem-of-universals/
+982,nominalism,Nominalism,philosophy,Contested,,,https://conyso.com/lawtome/laws/nominalism/
+983,possible-worlds,Possible Worlds,philosophy,Contested,,,https://conyso.com/lawtome/laws/possible-worlds/
+984,causation,Causation,philosophy,Contested,,,https://conyso.com/lawtome/laws/causation/
+985,presentism,Presentism,philosophy,Contested,,,https://conyso.com/lawtome/laws/presentism/
+986,eternalism,Eternalism,philosophy,Contested,,,https://conyso.com/lawtome/laws/eternalism/
+987,mereology,Mereology,philosophy,Empirical,,,https://conyso.com/lawtome/laws/mereology/
+988,substance,Substance,philosophy,Contested,,,https://conyso.com/lawtome/laws/substance/
+989,the-definition-of-art,The Definition of Art,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-definition-of-art/
+990,the-institutional-theory-of-art,The Institutional Theory of Art,philosophy,Contested,1974,,https://conyso.com/lawtome/laws/the-institutional-theory-of-art/
+991,the-intentional-fallacy,The Intentional Fallacy,philosophy,Contested,1946,,https://conyso.com/lawtome/laws/the-intentional-fallacy/
+992,aesthetic-experience,Aesthetic Experience,philosophy,Contested,,,https://conyso.com/lawtome/laws/aesthetic-experience/
+993,the-sublime,The Sublime,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/the-sublime/
+994,mimesis,Mimesis,philosophy,Heuristic,,,https://conyso.com/lawtome/laws/mimesis/
+995,formalism-in-art,Formalism in Art,philosophy,Contested,1914,,https://conyso.com/lawtome/laws/formalism-in-art/
+996,the-expression-theory-of-art,The Expression Theory of Art,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-expression-theory-of-art/
+997,the-paradox-of-fiction,The Paradox of Fiction,philosophy,Contested,1975,,https://conyso.com/lawtome/laws/the-paradox-of-fiction/
+998,the-paradox-of-tragedy,The Paradox of Tragedy,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-paradox-of-tragedy/
+999,the-aesthetic-attitude,The Aesthetic Attitude,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-aesthetic-attitude/
+1000,the-standard-of-taste,The Standard of Taste,philosophy,Contested,,,https://conyso.com/lawtome/laws/the-standard-of-taste/
+1001,catharsis,Catharsis,philosophy,Contested,,,https://conyso.com/lawtome/laws/catharsis/
+1003,goldbachs-conjecture,Goldbach's Conjecture,mathematics,Contested,1742,Christian Goldbach,https://conyso.com/lawtome/laws/goldbachs-conjecture/
+1004,the-twin-prime-conjecture,The Twin Prime Conjecture,mathematics,Contested,,,https://conyso.com/lawtome/laws/the-twin-prime-conjecture/
+1005,the-poincare-conjecture,The Poincaré Conjecture,mathematics,Empirical,1904,Henri Poincaré,https://conyso.com/lawtome/laws/the-poincare-conjecture/
+1006,hilberts-problems,Hilbert's Problems,mathematics,Empirical,1900,David Hilbert,https://conyso.com/lawtome/laws/hilberts-problems/
+1007,the-navier-stokes-existence-and-smoothness,Navier-Stokes Existence and Smoothness,mathematics,Contested,,,https://conyso.com/lawtome/laws/the-navier-stokes-existence-and-smoothness/
+1008,the-birch-and-swinnerton-dyer-conjecture,The Birch and Swinnerton-Dyer Conjecture,mathematics,Contested,,Bryan Birch and Peter Swinnerton-Dyer,https://conyso.com/lawtome/laws/the-birch-and-swinnerton-dyer-conjecture/
+1009,the-hodge-conjecture,The Hodge Conjecture,mathematics,Contested,,William Hodge,https://conyso.com/lawtome/laws/the-hodge-conjecture/
+1010,the-abc-conjecture,The abc Conjecture,mathematics,Contested,,,https://conyso.com/lawtome/laws/the-abc-conjecture/
+1011,the-classification-of-finite-simple-groups,The Classification of Finite Simple Groups,mathematics,Empirical,,,https://conyso.com/lawtome/laws/the-classification-of-finite-simple-groups/
+1012,the-millennium-prize-problems,The Millennium Prize Problems,mathematics,Empirical,2000,,https://conyso.com/lawtome/laws/the-millennium-prize-problems/
+1013,the-yang-mills-mass-gap,The Yang-Mills Mass Gap,mathematics,Contested,,,https://conyso.com/lawtome/laws/the-yang-mills-mass-gap/
+1014,the-langlands-program,The Langlands Program,mathematics,Contested,1967,Robert Langlands,https://conyso.com/lawtome/laws/the-langlands-program/
+1037,byzantine-fault-tolerance,Byzantine Fault Tolerance,software,Empirical,1982,,https://conyso.com/lawtome/laws/byzantine-fault-tolerance/
+1038,the-gini-coefficient,The Gini Coefficient,economics,Empirical,1912,Corrado Gini,https://conyso.com/lawtome/laws/the-gini-coefficient/
+1039,the-kuznets-curve,The Kuznets Curve,economics,Contested,1955,Simon Kuznets,https://conyso.com/lawtome/laws/the-kuznets-curve/
+1040,the-beveridge-curve,The Beveridge Curve,economics,Empirical,1958,William Beveridge,https://conyso.com/lawtome/laws/the-beveridge-curve/
+1041,the-herfindahl-hirschman-index,The Herfindahl–Hirschman Index,economics,Empirical,1950,Orris C. Herfindahl and Albert O. Hirschman,https://conyso.com/lawtome/laws/the-herfindahl-hirschman-index/
+1042,the-solow-swan-model,The Solow–Swan Model,economics,Empirical,1956,Robert Solow and Trevor Swan,https://conyso.com/lawtome/laws/the-solow-swan-model/
+1043,the-harrod-domar-model,The Harrod–Domar Model,economics,Contested,1939,Roy Harrod and Evsey Domar,https://conyso.com/lawtome/laws/the-harrod-domar-model/
+1044,the-malthusian-trap,The Malthusian Trap,economics,Contested,1798,Thomas Robert Malthus,https://conyso.com/lawtome/laws/the-malthusian-trap/
+1045,the-greater-fool-theory,The Greater Fool Theory,economics,Heuristic,,,https://conyso.com/lawtome/laws/the-greater-fool-theory/
+1046,prospect-theory,Prospect Theory,economics,Empirical,1979,,https://conyso.com/lawtome/laws/prospect-theory/
+1047,the-black-scholes-model,The Black–Scholes Model,economics,Contested,1973,Fischer Black and Myron Scholes,https://conyso.com/lawtome/laws/the-black-scholes-model/
+1048,the-kelly-criterion,The Kelly Criterion,economics,Empirical,1956,John L. Kelly Jr.,https://conyso.com/lawtome/laws/the-kelly-criterion/
+1049,modern-portfolio-theory,Modern Portfolio Theory,economics,Contested,1952,,https://conyso.com/lawtome/laws/modern-portfolio-theory/
+1050,the-capital-asset-pricing-model,The Capital Asset Pricing Model,economics,Contested,1964,,https://conyso.com/lawtome/laws/the-capital-asset-pricing-model/
+1051,the-kubler-ross-model,The Kübler-Ross Model,psychology,Contested,1969,Elisabeth Kübler-Ross,https://conyso.com/lawtome/laws/the-kubler-ross-model/
+1052,the-representativeness-heuristic,The Representativeness Heuristic,psychology,Empirical,1974,,https://conyso.com/lawtome/laws/the-representativeness-heuristic/
+1053,the-affect-heuristic,The Affect Heuristic,psychology,Empirical,2000,,https://conyso.com/lawtome/laws/the-affect-heuristic/
+1054,the-recognition-heuristic,The Recognition Heuristic,psychology,Empirical,1999,,https://conyso.com/lawtome/laws/the-recognition-heuristic/
+1055,status-quo-bias,Status Quo Bias,psychology,Empirical,1988,,https://conyso.com/lawtome/laws/status-quo-bias/
+1056,the-illusion-of-control,The Illusion of Control,psychology,Empirical,1975,,https://conyso.com/lawtome/laws/the-illusion-of-control/
+1057,illusory-correlation,Illusory Correlation,psychology,Empirical,1967,,https://conyso.com/lawtome/laws/illusory-correlation/
+1058,belief-perseverance,Belief Perseverance,psychology,Empirical,1975,,https://conyso.com/lawtome/laws/belief-perseverance/
+1059,functional-fixedness,Functional Fixedness,psychology,Empirical,1935,Karl Duncker,https://conyso.com/lawtome/laws/functional-fixedness/
+1060,the-einstellung-effect,The Einstellung Effect,psychology,Empirical,1942,,https://conyso.com/lawtome/laws/the-einstellung-effect/
+1061,social-facilitation,Social Facilitation,psychology,Contested,1898,,https://conyso.com/lawtome/laws/social-facilitation/
+1062,the-clever-hans-effect,The Clever Hans Effect,psychology,Empirical,1907,Clever Hans,https://conyso.com/lawtome/laws/the-clever-hans-effect/
+1063,the-garcia-effect,The Garcia Effect,psychology,Empirical,,John Garcia,https://conyso.com/lawtome/laws/the-garcia-effect/
+1064,post-hoc-ergo-propter-hoc,Post Hoc Ergo Propter Hoc,logic,Heuristic,,,https://conyso.com/lawtome/laws/post-hoc-ergo-propter-hoc/
+1065,circular-reasoning,Circular Reasoning,logic,Heuristic,,,https://conyso.com/lawtome/laws/circular-reasoning/
+1066,equivocation,Equivocation,logic,Heuristic,,,https://conyso.com/lawtome/laws/equivocation/
+1067,the-loaded-question,The Loaded Question,logic,Heuristic,,,https://conyso.com/lawtome/laws/the-loaded-question/
+1068,special-pleading,Special Pleading,logic,Heuristic,,,https://conyso.com/lawtome/laws/special-pleading/
+1069,moving-the-goalposts,Moving the Goalposts,logic,Heuristic,,,https://conyso.com/lawtome/laws/moving-the-goalposts/
+1070,poisoning-the-well,Poisoning the Well,logic,Heuristic,1864,,https://conyso.com/lawtome/laws/poisoning-the-well/
+1071,tu-quoque,Tu Quoque,logic,Heuristic,1614,,https://conyso.com/lawtome/laws/tu-quoque/
+1072,the-gish-gallop,The Gish Gallop,logic,Heuristic,1994,Duane Gish,https://conyso.com/lawtome/laws/the-gish-gallop/
+1073,the-courtiers-reply,The Courtier's Reply,philosophy,Heuristic,2006,,https://conyso.com/lawtome/laws/the-courtiers-reply/
+1074,the-nirvana-fallacy,The Nirvana Fallacy,logic,Heuristic,1969,,https://conyso.com/lawtome/laws/the-nirvana-fallacy/
+1075,maxwells-equations,Maxwell's Equations,physics,Empirical,1865,James Clerk Maxwell,https://conyso.com/lawtome/laws/maxwells-equations/
+1076,the-lorentz-force,The Lorentz Force,physics,Empirical,1895,Hendrik Lorentz,https://conyso.com/lawtome/laws/the-lorentz-force/
+1077,hawking-radiation,Hawking Radiation,physics,Contested,1974,Stephen Hawking,https://conyso.com/lawtome/laws/hawking-radiation/
+1078,the-twin-paradox,The Twin Paradox,physics,Empirical,1911,,https://conyso.com/lawtome/laws/the-twin-paradox/
+1079,bells-theorem,Bell's Theorem,physics,Empirical,1964,John Stewart Bell,https://conyso.com/lawtome/laws/bells-theorem/
+1080,the-poisson-distribution,The Poisson Distribution,statistics,Empirical,1837,Siméon Denis Poisson,https://conyso.com/lawtome/laws/the-poisson-distribution/
+1081,students-t-distribution,Student's t-distribution,statistics,Empirical,1908,,https://conyso.com/lawtome/laws/students-t-distribution/
+1082,zorns-lemma,Zorn's Lemma,mathematics,Empirical,1935,Max Zorn,https://conyso.com/lawtome/laws/zorns-lemma/
+1083,the-grandfather-paradox,The Grandfather Paradox,philosophy,Contested,1943,,https://conyso.com/lawtome/laws/the-grandfather-paradox/
+1084,diffusion-of-innovations,Diffusion of Innovations,media,Heuristic,1962,,https://conyso.com/lawtome/laws/diffusion-of-innovations/
+1085,mean-world-syndrome,Mean World Syndrome,media,Contested,,,https://conyso.com/lawtome/laws/mean-world-syndrome/
+1086,the-werther-effect,The Werther Effect,media,Empirical,1974,Werther (Goethe’s character),https://conyso.com/lawtome/laws/the-werther-effect/
+1087,the-csi-effect,The CSI Effect,media,Contested,2004,,https://conyso.com/lawtome/laws/the-csi-effect/
+1088,the-heckscher-ohlin-theorem,The Heckscher–Ohlin Theorem,economics,Contested,1933,Eli Heckscher and Bertil Ohlin,https://conyso.com/lawtome/laws/the-heckscher-ohlin-theorem/
+1089,the-stolper-samuelson-theorem,The Stolper–Samuelson Theorem,economics,Contested,1941,Wolfgang Stolper and Paul Samuelson,https://conyso.com/lawtome/laws/the-stolper-samuelson-theorem/
+1090,the-rybczynski-theorem,The Rybczynski Theorem,economics,Contested,1955,Tadeusz Rybczynski,https://conyso.com/lawtome/laws/the-rybczynski-theorem/
+1091,the-triffin-dilemma,The Triffin Dilemma,economics,Contested,1960,Robert Triffin,https://conyso.com/lawtome/laws/the-triffin-dilemma/
+1092,the-permanent-income-hypothesis,The Permanent Income Hypothesis,economics,Contested,1957,Milton Friedman,https://conyso.com/lawtome/laws/the-permanent-income-hypothesis/
+1093,the-life-cycle-hypothesis,The Life-Cycle Hypothesis,economics,Contested,1954,Franco Modigliani and Richard Brumberg,https://conyso.com/lawtome/laws/the-life-cycle-hypothesis/
+1094,the-minsky-moment,The Minsky Moment,economics,Heuristic,1998,Hyman Minsky,https://conyso.com/lawtome/laws/the-minsky-moment/
+1095,the-balassa-samuelson-effect,The Balassa–Samuelson Effect,economics,Empirical,1964,Béla Balassa and Paul Samuelson,https://conyso.com/lawtome/laws/the-balassa-samuelson-effect/
+1096,the-arrow-debreu-model,The Arrow–Debreu Model,economics,Contested,1954,Kenneth Arrow and Gérard Debreu,https://conyso.com/lawtome/laws/the-arrow-debreu-model/
+1097,the-first-welfare-theorem,The First Fundamental Theorem of Welfare Economics,economics,Contested,,,https://conyso.com/lawtome/laws/the-first-welfare-theorem/
+1098,the-second-welfare-theorem,The Second Fundamental Theorem of Welfare Economics,economics,Contested,,,https://conyso.com/lawtome/laws/the-second-welfare-theorem/
+1099,the-gibbard-satterthwaite-theorem,The Gibbard–Satterthwaite Theorem,economics,Empirical,1973,Allan Gibbard and Mark Satterthwaite,https://conyso.com/lawtome/laws/the-gibbard-satterthwaite-theorem/
+1100,vsepr-theory,VSEPR Theory,chemistry,Heuristic,1957,,https://conyso.com/lawtome/laws/vsepr-theory/
+1101,hammonds-postulate,Hammond's Postulate,chemistry,Empirical,1955,George S. Hammond,https://conyso.com/lawtome/laws/hammonds-postulate/
+1102,the-hsab-principle,The HSAB Principle,chemistry,Heuristic,1963,,https://conyso.com/lawtome/laws/the-hsab-principle/
+1103,the-woodward-hoffmann-rules,The Woodward–Hoffmann Rules,chemistry,Empirical,1965,Robert Burns Woodward and Roald Hoffmann,https://conyso.com/lawtome/laws/the-woodward-hoffmann-rules/
+1104,zaitsevs-rule,Zaitsev's Rule,chemistry,Heuristic,1875,Alexander Zaytsev,https://conyso.com/lawtome/laws/zaitsevs-rule/
+1105,huckels-rule,Hückel's Rule,chemistry,Empirical,1931,Erich Hückel,https://conyso.com/lawtome/laws/huckels-rule/
+1106,the-langmuir-adsorption-isotherm,The Langmuir Adsorption Isotherm,chemistry,Empirical,1918,Irving Langmuir,https://conyso.com/lawtome/laws/the-langmuir-adsorption-isotherm/
+1107,the-eyring-equation,The Eyring Equation,chemistry,Empirical,1935,Henry Eyring,https://conyso.com/lawtome/laws/the-eyring-equation/
+1108,marcus-theory,Marcus Theory,chemistry,Empirical,1956,Rudolph A. Marcus,https://conyso.com/lawtome/laws/marcus-theory/
+1109,the-van-t-hoff-equation,The van 't Hoff Equation,chemistry,Empirical,1884,Jacobus Henricus van 't Hoff,https://conyso.com/lawtome/laws/the-van-t-hoff-equation/
+1110,paulings-rules,Pauling's Rules,chemistry,Heuristic,1929,Linus Pauling,https://conyso.com/lawtome/laws/paulings-rules/
+1111,fajans-rules,Fajans' Rules,chemistry,Heuristic,1923,Kazimierz Fajans,https://conyso.com/lawtome/laws/fajans-rules/
+1112,the-gutenberg-richter-law,The Gutenberg–Richter Law,earth-science,Empirical,1944,Beno Gutenberg and Charles Francis Richter,https://conyso.com/lawtome/laws/the-gutenberg-richter-law/
+1113,omoris-law,Omori's Law,earth-science,Empirical,1894,Fusakichi Omori,https://conyso.com/lawtome/laws/omoris-law/
+1114,the-mohorovicic-discontinuity,The Mohorovičić Discontinuity,earth-science,Empirical,1909,Andrija Mohorovičić,https://conyso.com/lawtome/laws/the-mohorovicic-discontinuity/
+1115,walthers-law,Walther's Law,earth-science,Empirical,1894,Johannes Walther,https://conyso.com/lawtome/laws/walthers-law/
+1116,the-wadati-benioff-zone,The Wadati–Benioff Zone,earth-science,Empirical,1949,Kiyoo Wadati and Hugo Benioff,https://conyso.com/lawtome/laws/the-wadati-benioff-zone/
+1117,bowens-reaction-series,Bowen's Reaction Series,earth-science,Empirical,1922,Norman L. Bowen,https://conyso.com/lawtome/laws/bowens-reaction-series/
+1118,darcys-law,Darcy's Law,physics,Empirical,1856,Henry Darcy,https://conyso.com/lawtome/laws/darcys-law/
+1119,the-beaufort-scale,The Beaufort Scale,earth-science,Empirical,1805,Francis Beaufort,https://conyso.com/lawtome/laws/the-beaufort-scale/
+1120,the-fujita-scale,The Fujita Scale,earth-science,Empirical,1971,Tetsuya Fujita,https://conyso.com/lawtome/laws/the-fujita-scale/
+1121,the-koppen-climate-classification,The Köppen Climate Classification,earth-science,Empirical,1884,Wladimir Köppen,https://conyso.com/lawtome/laws/the-koppen-climate-classification/
+1122,stenos-laws,Steno's Laws of Stratigraphy,earth-science,Empirical,1669,Nicolas Steno,https://conyso.com/lawtome/laws/stenos-laws/
+1123,the-pacelc-theorem,The PACELC Theorem,software,Empirical,2010,,https://conyso.com/lawtome/laws/the-pacelc-theorem/
+1124,acid,ACID,software,Empirical,1983,,https://conyso.com/lawtome/laws/acid/
+1125,base,BASE,software,Heuristic,2008,,https://conyso.com/lawtome/laws/base/
+1126,paxos,Paxos,software,Empirical,1998,,https://conyso.com/lawtome/laws/paxos/
+1127,codds-twelve-rules,Codd's Twelve Rules,software,Heuristic,1985,Edgar F. Codd,https://conyso.com/lawtome/laws/codds-twelve-rules/
+1128,the-universal-scalability-law,The Universal Scalability Law,software,Empirical,1993,,https://conyso.com/lawtome/laws/the-universal-scalability-law/
+1129,the-second-system-effect,The Second-System Effect,software,Heuristic,1975,Fred Brooks,https://conyso.com/lawtome/laws/the-second-system-effect/
+1130,the-ninety-ninety-rule,The Ninety-Ninety Rule,software,Folk-adage,1985,,https://conyso.com/lawtome/laws/the-ninety-ninety-rule/
+1131,worse-is-better,Worse Is Better,software,Heuristic,1989,,https://conyso.com/lawtome/laws/worse-is-better/
+1132,the-von-neumann-bottleneck,The von Neumann Bottleneck,software,Empirical,1977,John von Neumann,https://conyso.com/lawtome/laws/the-von-neumann-bottleneck/
+1133,lamports-happened-before-relation,Lamport's Happened-Before Relation,software,Empirical,1978,Leslie Lamport,https://conyso.com/lawtome/laws/lamports-happened-before-relation/
+1134,the-raft-consensus-algorithm,The Raft Consensus Algorithm,software,Empirical,2014,,https://conyso.com/lawtome/laws/the-raft-consensus-algorithm/
+1135,chebyshevs-inequality,Chebyshev's Inequality,statistics,Empirical,1867,Pafnuty Chebyshev,https://conyso.com/lawtome/laws/chebyshevs-inequality/
+1136,the-cramer-rao-bound,The Cramér–Rao Bound,statistics,Empirical,1945,Harald Cramér and Calyampudi Radhakrishna Rao,https://conyso.com/lawtome/laws/the-cramer-rao-bound/
+1137,the-neyman-pearson-lemma,The Neyman–Pearson Lemma,statistics,Empirical,1933,Jerzy Neyman and Egon Pearson,https://conyso.com/lawtome/laws/the-neyman-pearson-lemma/
+1138,the-borel-cantelli-lemma,The Borel–Cantelli Lemma,statistics,Empirical,1909,Émile Borel and Francesco Paolo Cantelli,https://conyso.com/lawtome/laws/the-borel-cantelli-lemma/
+1139,kolmogorovs-zero-one-law,Kolmogorov's Zero–One Law,statistics,Empirical,1933,Andrey Kolmogorov,https://conyso.com/lawtome/laws/kolmogorovs-zero-one-law/
+1140,the-law-of-total-probability,The Law of Total Probability,statistics,Empirical,,,https://conyso.com/lawtome/laws/the-law-of-total-probability/
+1141,anscombes-quartet,Anscombe's Quartet,statistics,Empirical,1973,Francis Anscombe,https://conyso.com/lawtome/laws/anscombes-quartet/
+1142,the-bonferroni-correction,The Bonferroni Correction,statistics,Empirical,1936,Carlo Emilio Bonferroni,https://conyso.com/lawtome/laws/the-bonferroni-correction/
+1143,bessels-correction,Bessel's Correction,statistics,Empirical,,Friedrich Wilhelm Bessel,https://conyso.com/lawtome/laws/bessels-correction/
+1144,markovs-inequality,Markov's Inequality,statistics,Empirical,,Andrey Markov,https://conyso.com/lawtome/laws/markovs-inequality/
+1145,the-josephson-effect,The Josephson Effect,physics,Empirical,1962,Brian Josephson,https://conyso.com/lawtome/laws/the-josephson-effect/
+1146,the-kondo-effect,The Kondo Effect,physics,Empirical,1964,Jun Kondo,https://conyso.com/lawtome/laws/the-kondo-effect/
+1147,the-jahn-teller-effect,The Jahn–Teller Effect,chemistry,Empirical,1937,Hermann Arthur Jahn and Edward Teller,https://conyso.com/lawtome/laws/the-jahn-teller-effect/
+1148,the-aharonov-bohm-effect,The Aharonov–Bohm Effect,physics,Empirical,1959,Yakir Aharonov and David Bohm,https://conyso.com/lawtome/laws/the-aharonov-bohm-effect/
+1149,the-mossbauer-effect,The Mössbauer Effect,physics,Empirical,1958,Rudolf Mössbauer,https://conyso.com/lawtome/laws/the-mossbauer-effect/
+1150,cherenkov-radiation,Cherenkov Radiation,physics,Empirical,1934,Pavel Cherenkov,https://conyso.com/lawtome/laws/cherenkov-radiation/
+1151,the-raman-effect,The Raman Effect,physics,Empirical,1928,Chandrasekhara Venkata Raman,https://conyso.com/lawtome/laws/the-raman-effect/
+1152,the-stark-effect,The Stark Effect,physics,Empirical,1913,Johannes Stark,https://conyso.com/lawtome/laws/the-stark-effect/
+1153,the-unruh-effect,The Unruh Effect,physics,Contested,1976,William G. Unruh,https://conyso.com/lawtome/laws/the-unruh-effect/
+1154,anfinsens-dogma,Anfinsen's Dogma,biology,Empirical,1961,Christian B. Anfinsen,https://conyso.com/lawtome/laws/anfinsens-dogma/
+1155,levinthals-paradox,Levinthal's Paradox,biology,Heuristic,1969,Cyrus Levinthal,https://conyso.com/lawtome/laws/levinthals-paradox/
+1156,the-warburg-effect,The Warburg Effect,medicine,Empirical,1924,Otto Heinrich Warburg,https://conyso.com/lawtome/laws/the-warburg-effect/
+1157,wolffs-law,Wolff's Law,medicine,Heuristic,1892,Julius Wolff,https://conyso.com/lawtome/laws/wolffs-law/
+1158,optimal-foraging-theory,Optimal Foraging Theory,biology,Heuristic,1966,,https://conyso.com/lawtome/laws/optimal-foraging-theory/
+1159,knudsons-two-hit-hypothesis,Knudson's Two-Hit Hypothesis,medicine,Empirical,1971,Alfred G. Knudson,https://conyso.com/lawtome/laws/knudsons-two-hit-hypothesis/
+1160,hormesis,Hormesis,biology,Contested,1943,,https://conyso.com/lawtome/laws/hormesis/
+1161,the-von-thunen-model,The Von Thünen Model,economics,Heuristic,1826,Johann Heinrich von Thünen,https://conyso.com/lawtome/laws/the-von-thunen-model/
+1162,central-place-theory,Central Place Theory,economics,Heuristic,1933,Walter Christaller,https://conyso.com/lawtome/laws/central-place-theory/
+1163,reillys-law-of-retail-gravitation,Reilly's Law of Retail Gravitation,economics,Heuristic,1931,William J. Reilly,https://conyso.com/lawtome/laws/reillys-law-of-retail-gravitation/
+1164,the-tiebout-model,The Tiebout Model,economics,Contested,1956,Charles M. Tiebout,https://conyso.com/lawtome/laws/the-tiebout-model/
+1165,the-demographic-transition,The Demographic Transition,sociology,Empirical,1929,,https://conyso.com/lawtome/laws/the-demographic-transition/
+1166,verdoorns-law,Verdoorn's Law,economics,Empirical,1949,Petrus Johannes Verdoorn,https://conyso.com/lawtome/laws/verdoorns-law/
+1168,directors-law,Director's Law,economics,Heuristic,1970,Aaron Director,https://conyso.com/lawtome/laws/directors-law/
+1169,hofmanns-rule,Hofmann's Rule,chemistry,Heuristic,1851,August Wilhelm von Hofmann,https://conyso.com/lawtome/laws/hofmanns-rule/
+1170,bredts-rule,Bredt's Rule,chemistry,Empirical,1924,Julius Bredt,https://conyso.com/lawtome/laws/bredts-rule/
+1171,baldwins-rules,Baldwin's Rules,chemistry,Heuristic,1976,Jack Edward Baldwin,https://conyso.com/lawtome/laws/baldwins-rules/
+1172,bartholomaes-law,Bartholomae's Law,linguistics,Empirical,1883,Christian Bartholomae,https://conyso.com/lawtome/laws/bartholomaes-law/
+1173,sieverss-law,Sievers's Law,linguistics,Empirical,1878,Eduard Sievers,https://conyso.com/lawtome/laws/sieverss-law/
+1174,dahls-law,Dahl's Law,linguistics,Empirical,1903,Edmund Dahl,https://conyso.com/lawtome/laws/dahls-law/
+1175,courvoisiers-law,Courvoisier's Law,medicine,Heuristic,1890,Ludwig Georg Courvoisier,https://conyso.com/lawtome/laws/courvoisiers-law/
+1176,hiltons-law,Hilton's Law,medicine,Heuristic,1863,John Hilton,https://conyso.com/lawtome/laws/hiltons-law/
+1177,wallaces-rule-of-nines,Wallace's Rule of Nines,medicine,Heuristic,1951,Alexander Burns Wallace,https://conyso.com/lawtome/laws/wallaces-rule-of-nines/
+1180,vegards-law,Vegard's Law,chemistry,Empirical,1921,Lars Vegard,https://conyso.com/lawtome/laws/vegards-law/
+1181,matthiessens-rule,Matthiessen's Rule,physics,Empirical,1864,Augustus Matthiessen,https://conyso.com/lawtome/laws/matthiessens-rule/
+1182,the-wiedemann-franz-law,The Wiedemann-Franz Law,physics,Empirical,1853,Gustav Wiedemann and Rudolph Franz,https://conyso.com/lawtome/laws/the-wiedemann-franz-law/
+1183,moseleys-law,Moseley's Law,physics,Empirical,1913,Henry Moseley,https://conyso.com/lawtome/laws/moseleys-law/
+1184,the-triangle-inequality,The Triangle Inequality,mathematics,Empirical,,,https://conyso.com/lawtome/laws/the-triangle-inequality/
+1185,the-cayley-hamilton-theorem,The Cayley-Hamilton Theorem,mathematics,Empirical,1858,Arthur Cayley and William Rowan Hamilton,https://conyso.com/lawtome/laws/the-cayley-hamilton-theorem/
+1186,the-hall-petch-relationship,The Hall-Petch Relationship,physics,Empirical,1951,E. O. Hall and N. J. Petch,https://conyso.com/lawtome/laws/the-hall-petch-relationship/
+1187,paris-law,Paris' Law,physics,Empirical,1961,Paul C. Paris,https://conyso.com/lawtome/laws/paris-law/
+1188,griffiths-criterion,Griffith's Criterion,physics,Empirical,1921,Alan Arnold Griffith,https://conyso.com/lawtome/laws/griffiths-criterion/
+1189,archards-wear-equation,Archard's Wear Equation,physics,Empirical,1953,John Frederick Archard,https://conyso.com/lawtome/laws/archards-wear-equation/
+1190,fouriers-law-of-heat-conduction,Fourier's Law of Heat Conduction,physics,Empirical,1822,Joseph Fourier,https://conyso.com/lawtome/laws/fouriers-law-of-heat-conduction/
+1191,ficks-laws-of-diffusion,Fick's Laws of Diffusion,physics,Empirical,1855,Adolf Fick,https://conyso.com/lawtome/laws/ficks-laws-of-diffusion/
+1192,the-chandrasekhar-limit,The Chandrasekhar Limit,astronomy,Empirical,1931,Subrahmanyan Chandrasekhar,https://conyso.com/lawtome/laws/the-chandrasekhar-limit/
+1193,the-roche-limit,The Roche Limit,astronomy,Empirical,1848,Édouard Roche,https://conyso.com/lawtome/laws/the-roche-limit/
+1195,the-tully-fisher-relation,The Tully-Fisher Relation,astronomy,Empirical,1977,R. Brent Tully and J. Richard Fisher,https://conyso.com/lawtome/laws/the-tully-fisher-relation/
+1196,the-faber-jackson-relation,The Faber-Jackson Relation,astronomy,Empirical,1976,Sandra Faber and Robert Jackson,https://conyso.com/lawtome/laws/the-faber-jackson-relation/
+1197,the-jeans-instability,The Jeans Instability,astronomy,Heuristic,1902,James Jeans,https://conyso.com/lawtome/laws/the-jeans-instability/
+1198,thorndikes-law-of-effect,Thorndike's Law of Effect,psychology,Empirical,1911,Edward Thorndike,https://conyso.com/lawtome/laws/thorndikes-law-of-effect/
+1199,the-premack-principle,The Premack Principle,psychology,Empirical,1965,David Premack,https://conyso.com/lawtome/laws/the-premack-principle/
+1200,flashbulb-memory,Flashbulb Memory,psychology,Empirical,1977,,https://conyso.com/lawtome/laws/flashbulb-memory/
+1201,the-misinformation-effect,The Misinformation Effect,psychology,Empirical,1974,,https://conyso.com/lawtome/laws/the-misinformation-effect/
+1202,the-semmelweis-reflex,The Semmelweis Reflex,psychology,Heuristic,,Ignaz Semmelweis,https://conyso.com/lawtome/laws/the-semmelweis-reflex/
+1203,naive-realism,Naïve Realism,psychology,Empirical,,,https://conyso.com/lawtome/laws/naive-realism/
+1204,the-actor-observer-bias,The Actor-Observer Bias,psychology,Contested,1971,,https://conyso.com/lawtome/laws/the-actor-observer-bias/
+1205,the-rashomon-effect,The Rashomon Effect,psychology,Heuristic,,,https://conyso.com/lawtome/laws/the-rashomon-effect/
+1206,the-environmental-kuznets-curve,The Environmental Kuznets Curve,economics,Contested,1991,Simon Kuznets,https://conyso.com/lawtome/laws/the-environmental-kuznets-curve/
+1207,the-heckscher-ohlin-model,The Heckscher-Ohlin Model,economics,Contested,1933,Eli Heckscher and Bertil Ohlin,https://conyso.com/lawtome/laws/the-heckscher-ohlin-model/
+1208,the-lorentz-transformation,The Lorentz Transformation,physics,Empirical,1905,Hendrik Antoon Lorentz,https://conyso.com/lawtome/laws/the-lorentz-transformation/
+1209,the-weibull-distribution,The Weibull Distribution,statistics,Empirical,1951,Waloddi Weibull,https://conyso.com/lawtome/laws/the-weibull-distribution/
+1210,the-no-cloning-theorem,The No-Cloning Theorem,physics,Empirical,1982,,https://conyso.com/lawtome/laws/the-no-cloning-theorem/
+1211,the-cnn-effect,The CNN Effect,media,Contested,1991,,https://conyso.com/lawtome/laws/the-cnn-effect/
+1212,the-freundlich-adsorption-isotherm,The Freundlich Adsorption Isotherm,chemistry,Empirical,1909,Herbert Freundlich,https://conyso.com/lawtome/laws/the-freundlich-adsorption-isotherm/
+1213,the-nernst-heat-theorem,The Nernst Heat Theorem,chemistry,Empirical,1906,Walther Nernst,https://conyso.com/lawtome/laws/the-nernst-heat-theorem/
+1214,yagni,YAGNI,software,Heuristic,,,https://conyso.com/lawtome/laws/yagni/
+1215,dry,The DRY Principle,software,Heuristic,1999,,https://conyso.com/lawtome/laws/dry/
+1216,kiss-principle,The KISS Principle,software,Heuristic,,Kelly Johnson,https://conyso.com/lawtome/laws/kiss-principle/
+1217,the-liskov-substitution-principle,The Liskov Substitution Principle,software,Heuristic,1987,Barbara Liskov,https://conyso.com/lawtome/laws/the-liskov-substitution-principle/
+1218,the-law-of-demeter,The Law of Demeter,software,Heuristic,1987,Demeter,https://conyso.com/lawtome/laws/the-law-of-demeter/
+1219,knuths-optimization-principle,Knuth's Optimization Principle,software,Heuristic,1974,Donald Knuth,https://conyso.com/lawtome/laws/knuths-optimization-principle/
+1220,solid,SOLID,software,Heuristic,2000,,https://conyso.com/lawtome/laws/solid/
+1221,the-single-responsibility-principle,The Single Responsibility Principle,software,Heuristic,2000,Robert C. Martin,https://conyso.com/lawtome/laws/the-single-responsibility-principle/
+1222,separation-of-concerns,Separation of Concerns,software,Heuristic,1974,Edsger W. Dijkstra,https://conyso.com/lawtome/laws/separation-of-concerns/
+1223,the-principle-of-least-astonishment,The Principle of Least Astonishment,software,Heuristic,1967,,https://conyso.com/lawtome/laws/the-principle-of-least-astonishment/
+1224,the-bus-factor,The Bus Factor,software,Heuristic,1994,,https://conyso.com/lawtome/laws/the-bus-factor/
+1225,the-horn-effect,The Horn Effect,psychology,Heuristic,1920,,https://conyso.com/lawtome/laws/the-horn-effect/
+1226,the-overconfidence-effect,The Overconfidence Effect,psychology,Empirical,1960,,https://conyso.com/lawtome/laws/the-overconfidence-effect/
+1227,the-impostor-phenomenon,The Impostor Phenomenon,psychology,Contested,1978,,https://conyso.com/lawtome/laws/the-impostor-phenomenon/
+1228,the-friedman-doctrine,The Friedman Doctrine,economics,Contested,1970,Milton Friedman,https://conyso.com/lawtome/laws/the-friedman-doctrine/

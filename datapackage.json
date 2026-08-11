@@ -1,0 +1,102 @@
+{
+  "name": "the-law-tome",
+  "title": "The Law Tome",
+  "description": "1,116 named laws, principles and effects, each traced to a primary source and rated for evidentiary weight.",
+  "homepage": "https://conyso.com/lawtome/",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Krishna Chagti",
+      "role": "author"
+    }
+  ],
+  "resources": [
+    {
+      "name": "lawtome-json",
+      "path": "data/lawtome.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "lawtome-csv",
+      "path": "data/lawtome.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "no",
+            "type": "string"
+          },
+          {
+            "name": "slug",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "astronomy",
+                "biology",
+                "chemistry",
+                "earth-science",
+                "economics",
+                "law",
+                "linguistics",
+                "logic",
+                "management",
+                "mathematics",
+                "media",
+                "medicine",
+                "philosophy",
+                "physics",
+                "planning",
+                "psychology",
+                "sociology",
+                "software",
+                "statistics",
+                "technology"
+              ]
+            }
+          },
+          {
+            "name": "reliability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Empirical",
+                "Heuristic",
+                "Contested",
+                "Folk-adage"
+              ]
+            }
+          },
+          {
+            "name": "coinedYear",
+            "type": "year"
+          },
+          {
+            "name": "namedAfter",
+            "type": "string"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "format": "uri"
+          }
+        ]
+      }
+    }
+  ]
+}
